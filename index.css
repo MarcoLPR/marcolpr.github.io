@@ -25,6 +25,14 @@
   z-index: 50000;
 }
 
+.dropdown-menu,
+.dropdown-item:hover,
+.dropdown-item:focus,
+.dropdown-item {
+  background-color: #343a40;
+  color: #fff;
+}
+
 .centered-card {
   background: #343a40;
   color: #fff;
