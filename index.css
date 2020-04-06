@@ -29,8 +29,8 @@
 .dropdown-item:hover,
 .dropdown-item:focus,
 .dropdown-item {
-  background-color: #343a40;
-  color: #fff;
+  background-color: #343a40 !important;
+  color: #fff !important;
 }
 
 .centered-card {
