@@ -38,37 +38,37 @@
 
 <body>
     <div id="sticky-anchor"></div>
-    <nav class="navbar navbar-default sticky" role="navigation" id="main-navigation">
-        <div class="container">
-            <div class="navbar-header">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#tnavbar">
-                    <span class="sr-only">Toggle navigation</span><i class="fa fa-bars"></i>
-                </button>
-            </div>
-            <div class="collapse navbar-collapse" id="tnavbar">
-                <ul class="nav navbar-nav navbar-left">
-                    <li>
-                        <a href="/" title="Home" class="btn btn-xs btn-default"><span
-                                class="glyphicon glyphicon-home"></span> Inicio</a>
-                    </li>
-                    <li>
-                        <a href="/products" title="Productos" class="btn btn-xs btn-default"><span
-                                class="glyphicon glyphicon-cutlery"></span> Productos</a>
-                    </li>
-                    <li>
-                        <a href="/about" title="¿Quienes somos?" class="btn btn-xs btn-default"><span
-                                class="glyphicon glyphicon-info-sign"></span> ¿Quiénes Somos?</a>
-                    </li>
-                </ul>
-                <ul class="list-inline list-social">
-                    <li><a href="https://www.facebook.com/sciencefornourishment/" title="Facebook"><i
-                                class="fa fa-facebook"></i></a></li>
-                    <li><a href="https://twitter.com/ScienceNourish" title="Twitter"><i class="fa fa-twitter"></i></a>
-                    </li>
-                    <li><a href="https://www.instagram.com/science_for_nourishment/" title="Instagram"><i
-                                class="fa fa-instagram"></i></a></li>
-                </ul>
-            </div>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <a class="navbar-brand" href="#">Navbar</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item active">
+                    <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Link</a>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
+                        data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Actividades
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <a class="dropdown-item" href="#">Bebes (1 - 2 años)</a>
+                        <a class="dropdown-item" href="#">Infantes (3 - 5 años)</a>
+                        <a class="dropdown-item" href="#">Niños pequeños (6 - 10 años)</a>
+                        <a class="dropdown-item" href="#">Niños mayores (11 - 13 años)</a>
+                    </div>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
+                </li>
+            </ul>
         </div>
     </nav>
     {{ content }}
