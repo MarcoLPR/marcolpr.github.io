@@ -13,7 +13,7 @@ div {
 }
 
 .animated-title {
-  color: #222;
+  color: #fff;
   height: 90vmin;
   left: 50%;
   position: absolute;
@@ -36,7 +36,7 @@ div {
   display: block;
 }
 .animated-title > div.text-top {
-  border-bottom: 1vmin solid #000;
+  border-bottom: 1vmin solid #fff;
   top: 0;
 }
 .animated-title > div.text-top div {
@@ -47,7 +47,7 @@ div {
   transform: translate(0, 100%);
 }
 .animated-title > div.text-top div span:first-child {
-  color: #767676;
+  color: #fff;
 }
 .animated-title > div.text-bottom {
   bottom: 0;
@@ -85,6 +85,10 @@ div {
 
 .navbar {
   z-index: 50000;
+}
+
+.section {
+  height: 100vh;
 }
 
 .dropdown-menu,
