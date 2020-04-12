@@ -19,7 +19,7 @@ title: "Inicio"
     <div class="container">
         <div class="row">
             <section class="col-md-8 posts" itemscope itemtype="http://schema.org/Blog">
-                {% for post in site.posts %}
+                {% for post in paginator.posts %}
                 <article class="post object border" itemprop="blogPosts" itemscope itemtype="http://schema.org/BlogPosting">
                     <meta itemprop="name" content="{{post.title}}"/>
                     <meta itemprop="image" content="{{post.image}}"/>
@@ -106,7 +106,7 @@ title: "Inicio"
 <div class="posts-pagination">
     <div class="container">
         <div class="row">
-            {% if paginator.next_page %}
+            {% if site.next_page %}
             <div class="col-md-4 newer-posts">
                 <a href="{{ paginator.next_page_path }}" class="previous">
                     <i class="fa fa-chevron-left"></i>
@@ -117,7 +117,7 @@ title: "Inicio"
             <div class="col-md-4 page-num">
                 <span>P&aacute;gina  {{ paginator.page }} de {{ paginator.total_pages }}</span>
             </div>
-            {% if paginator.previous_page %}
+            {% if site.previous_page %}
             <div class="col-md-4 older-posts">
                 <a href="{{ paginator.previous_page_path }}" class="next">
                     <span>Art&iacute;culos nuevos</span>
