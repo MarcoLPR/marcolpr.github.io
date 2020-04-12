@@ -19,7 +19,7 @@ title: "Inicio"
     <div class="container">
         <div class="row">
             <section class="col-md-8 posts" itemscope itemtype="http://schema.org/Blog">
-                {% for post in paginator.posts %}
+                {% for post in site.posts %}
                 <article class="post object border" itemprop="blogPosts" itemscope itemtype="http://schema.org/BlogPosting">
                     <meta itemprop="name" content="{{post.title}}"/>
                     <meta itemprop="image" content="{{post.image}}"/>
@@ -45,10 +45,6 @@ title: "Inicio"
                                 <div class="icon">
                                     <a href="https://twitter.com/share?text={{post.title}}&amp;url={{ site.url }}{{post.url}}"
                                     onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;"><i class="fa fa-twitter tw-tooltip"></i></a>   
-                                </div>
-                                <div class="icon last">
-                                    <a href="https://plus.google.com/share?url={{ site.url }}{{post.url}}"
-                                    onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;"><i class="fa fa-google-plus gp-tooltip"></i></a>
                                 </div>
                                 <div class="label">Compartir</div>
                             </div>
