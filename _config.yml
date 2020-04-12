@@ -6,6 +6,9 @@ gems:
 paginate: 6
 permalink: /:title/
 
+plugins:
+  - jekyll-paginate
+
 authors:
   alejandro:
     name: Alejandro Perez
