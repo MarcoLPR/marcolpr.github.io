@@ -20,6 +20,7 @@ title: "Inicio"
         <div class="row">
             <section class="col-md-8 posts" itemscope itemtype="http://schema.org/Blog">
                 {% for post in paginator.posts %}
+                {% if post.categories contains 'tibicos' %}
                 <article class="post object border" itemprop="blogPosts" itemscope itemtype="http://schema.org/BlogPosting">
                     <meta itemprop="name" content="{{post.title}}"/>
                     <meta itemprop="image" content="{{post.image}}"/>
@@ -68,6 +69,7 @@ title: "Inicio"
                 <div class="postdivider">
                     <hr>
                 </div>
+                {% endif %}
                     {% endfor %}
             <div class="fill"></div>
             </section>
