@@ -4,8 +4,7 @@ gems:
   - jekyll-sitemap
   
 paginate: 6
-permalink: /:title/
-paginate_path: /page:num/
+paginate_path: blog/page:num/
 
 plugins: [jekyll-paginate]
 
