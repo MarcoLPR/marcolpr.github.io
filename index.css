@@ -12,11 +12,45 @@ div {
   font-family: 'Poppins', sans-serif;
 }
 
-.baby-background {
+.baby-background,
+.child-background,
+.toddler-background {
   width: 100%;
   height: 100%;
-  background-image: url('/assets/backgrounds/heart.png');
   background-repeat: repeat;
+}
+
+.baby-background {
+  background-image: url('/assets/backgrounds/heart.png');
+}
+
+.baby-title,
+.child-title,
+.toddler-title {
+  text-align: center;
+  color: #fff;
+  font-size: 10vmin;
+  margin: auto;
+}
+
+.baby-title {
+  background: #dda0dd;
+}
+
+.child-background {
+  background-image: url('/assets/backgrounds/squares.png.png');
+}
+
+.child-title {
+  background: #87cefa;
+}
+
+.toddler-background {
+  background-image: url('/assets/backgrounds/sun.png');
+}
+
+.toddler-title {
+  background: #ffa500;
 }
 
 .grid {
@@ -37,11 +71,16 @@ div {
   grid-column: span 1;
   flex-direction: column;
   display: flex;
+  transition: transform .2s;
   align-items: center;
   padding: 15px 10px;
 }
 
-.post-title a {
+.grid-card:hover{
+  transform: scale(1.3);
+}
+
+.post-title {
   text-align: center;
 }
 
