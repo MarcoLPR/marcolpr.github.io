@@ -19,6 +19,7 @@ div {
   grid-row-gap: 30px;
   width: 100%;
   margin: auto;
+  padding: 40px;
 }
 
 .grid-card {
@@ -31,6 +32,15 @@ div {
   display: flex;
   align-items: center;
   padding: 15px 10px;
+}
+
+.post-title {
+  font-size: 3vmin;
+  color: #000;
+}
+
+.post-title:hover{
+  text-decoration: none;
 }
 
 .animated-title {
