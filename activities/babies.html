@@ -2,6 +2,9 @@
 layout: default
 title: "Actividades para Bebes"
 ---
+<div>
+    <h2>Bebes</h2>
+</div>
 <div class="baby-background">
     <section class="grid container" itemscope itemtype="http://schema.org/Blog">
         {% for post in site.posts %}
@@ -9,10 +12,10 @@ title: "Actividades para Bebes"
             <meta itemprop="name" content="{{post.title}}" />
             <meta itemprop="image" content="{{post.image}}" />
             <div class="post-image" style="background-image: url({{post.image}});">&nbsp;</div>
-            <h2 class="post-title" itemprop="headline"><a href="{{post.url}}">{{post.title}}</a></h2>
-            <span class="d-none" itemprop="datePublished">{{post.date| date_to_string}}</span>
-            <p class="d-none" itemprop="description">{{post.excerpt | strip_html}}...</p>
-            <!--<hr />
+            <h3 class="post-title" itemprop="headline"><a href="{{post.url}}">{{post.title}}</a></h2>
+                <span class="d-none" itemprop="datePublished">{{post.date| date_to_string}}</span>
+                <p class="d-none" itemprop="description">{{post.excerpt | strip_html}}...</p>
+                <!--<hr />
         <div class="share-icons">
             <div class="label">Compartir</div>
             <div class="share">

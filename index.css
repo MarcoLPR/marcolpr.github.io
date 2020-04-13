@@ -52,6 +52,7 @@ div {
 
 .post-title a:hover {
   text-decoration: none;
+  color: #000;
 }
 
 .animated-title {
