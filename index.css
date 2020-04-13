@@ -220,6 +220,13 @@ div {
   animation: color-change 30s linear infinite alternate both;
 }
 
+/* Mobile */
+@media (min-width: 768px) { 
+  .grid-card {
+    grid-column: span 3;
+  }  
+}
+
 /* Keyframes */
 @keyframes showTopText {
   0% {
