@@ -12,6 +12,13 @@ div {
   font-family: 'Poppins', sans-serif;
 }
 
+.baby-background{
+  width: 100%;
+  height: 100%;
+  background-image: url("/assets/backgrounds/heart.png");
+  background-repeat: repeat;
+}
+
 .grid {
   display: grid;
   grid-template-columns: auto auto auto;
