@@ -227,6 +227,10 @@ div {
   animation: color-change 30s linear infinite alternate both;
 }
 
+.d-lg-block{
+  height: 100%;
+}
+
 /* Mobile */
 @media (max-width: 768px) {
   .grid-card {
