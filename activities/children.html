@@ -2,17 +2,18 @@
 layout: default
 title: "Actividades para Niños"
 ---
-<div class="baby-background">
-<section class="grid container" itemscope itemtype="http://schema.org/Blog">
-    {% for post in site.posts %}
-    <article class="grid-card" itemprop="blogPosts" itemscope itemtype="http://schema.org/BlogPosting">
-        <meta itemprop="name" content="{{post.title}}" />
-        <meta itemprop="image" content="{{post.image}}" />
-        <div class="post-image" style="background-image: url({{post.image}});">&nbsp;</div>
-        <h2 itemprop="headline"><a class="post-title" href="{{post.url}}">{{post.title}}</a></h2>
-        <span class="d-none" itemprop="datePublished">{{post.date| date_to_string}}</span>
-        <p class="d-none" itemprop="description">{{post.excerpt | strip_html}}...</p>
-        <!--<hr />
+<h2 class="children-title">Niños</h2>
+<div class="children-background">
+    <section class="grid container" itemscope itemtype="http://schema.org/Blog">
+        {% for post in site.posts %}
+        <article class="grid-card" itemprop="blogPosts" itemscope itemtype="http://schema.org/BlogPosting">
+            <meta itemprop="name" content="{{post.title}}" />
+            <meta itemprop="image" content="{{post.image}}" />
+            <div class="post-image" style="background-image: url({{post.image}});">&nbsp;</div>
+            <h2 itemprop="headline"><a class="post-title" href="{{post.url}}">{{post.title}}</a></h2>
+            <span class="d-none" itemprop="datePublished">{{post.date| date_to_string}}</span>
+            <p class="d-none" itemprop="description">{{post.excerpt | strip_html}}...</p>
+            <!--<hr />
         <div class="share-icons">
             <div class="label">Compartir</div>
             <div class="share">
@@ -28,12 +29,12 @@ title: "Actividades para Niños"
                 </div>
             </div>
         </div>-->
-    </article>
-    <!--
+        </article>
+        <!--
     {% if post.categories contains 'tibicos' %}
      use this to show badges of skills or areas of improvement of the activity
     {% endif %}
     -->
-    {% endfor %}
-</section>
+        {% endfor %}
+    </section>
 </div>
