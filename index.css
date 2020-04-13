@@ -57,6 +57,10 @@ div {
   color: #fff;
 }
 
+.center-text {
+  text-align: center;
+}
+
 .grid {
   display: grid;
   grid-template-columns: auto auto auto;
