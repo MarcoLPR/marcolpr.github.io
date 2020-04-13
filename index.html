@@ -3,7 +3,7 @@ layout: default
 title: "Inicio"
 ---
 <div id="fullpage">
-    <div class="section color-change">
+    <div class="section">
         <div class="col-10 m-auto p-3">
             <div class="animated-title">
                 <div class="text-top">
@@ -19,12 +19,25 @@ title: "Inicio"
         </div>
     </div>
     <div class="section">
-        <div class="slide second-gradient">
-            <div class="col-8 m-auto p-3 centered-card">
-                <h2>Bebes</h2>
-                <h4>(1 - 2 años)</h4>
-                <p class="lead">Actividades para los mas pequeños, enfocadas en mejorar su motricidad y percepcion de su
-                    entorno.</p>
+        <div class="slide">
+            <div class="grid-activities col-8">
+                <div class="grid-activities-card-xl">
+                    <h2>Bebes</h2>
+                    <h4>(1 - 2 años)</h4>
+                    <p>Actividades para los mas pequeños, enfocadas en mejorar su motricidad y percepcion de su
+                        entorno.</p>
+                    <button>Ver mas</button>
+                </div>
+                <div class="grid-activities-card">
+                    <h2>Destacado</h2>
+                    <p>Actividades para los mas pequeños, enfocadas en mejorar su motricidad y percepcion de su
+                        entorno.</p>
+                </div>
+                <div class="grid-activities-card">
+                    <h2>Reciente</h2>
+                    <p>Actividades para los mas pequeños, enfocadas en mejorar su motricidad y percepcion de su
+                        entorno.</p>
+                </div>
             </div>
         </div>
         <div class="slide">
@@ -45,9 +58,9 @@ title: "Inicio"
         </div>
     </div>
     <div class="section">
-        <div class="col-10 m-auto p-3 centered-card">
+        <div class="col-12 col-lg-8 m-auto p-3 white-text">
             <h2>Acerca de Nosotros</h2>
-            <p class="lead">Este proyecto nacio durante la pandemia del COVID-19, descubrimos que para los padres era
+            <p>Este proyecto nacio durante la pandemia del COVID-19, descubrimos que para los padres era
                 dificil poder
                 educar a sus hijos desde casa y que es complicado encontrar contenido de calidad en linea. Quisimos
                 hacer la
@@ -57,3 +70,7 @@ title: "Inicio"
         </div>
     </div>
 </div>
+
+<script>
+    document.getElementById("body").className = "color-change";
+</script>
