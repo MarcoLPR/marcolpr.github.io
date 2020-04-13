@@ -227,7 +227,7 @@ div {
   animation: color-change 30s linear infinite alternate both;
 }
 
-.d-lg-block{
+.d-lg-block {
   height: 100%;
 }
 
@@ -241,6 +241,9 @@ div {
   }
   .contact-card {
     flex-direction: column;
+  }
+  #about .animated-title {
+    width: 60vmin;
   }
 }
 
