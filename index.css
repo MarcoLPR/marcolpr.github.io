@@ -38,7 +38,7 @@ div {
 }
 
 .child-background {
-  background-image: url('/assets/backgrounds/squares.png.png');
+  background-image: url('/assets/backgrounds/squares.png');
 }
 
 .child-title {
@@ -51,6 +51,10 @@ div {
 
 .toddler-title {
   background: #ffa500;
+}
+
+.white-text{
+  color: #fff;
 }
 
 .grid {
