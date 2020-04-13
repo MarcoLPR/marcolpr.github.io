@@ -221,7 +221,7 @@ div {
 }
 
 /* Mobile */
-@media (min-width: 768px) { 
+@media (max-width: 768px) { 
   .grid-card {
     grid-column: span 3;
   }  
