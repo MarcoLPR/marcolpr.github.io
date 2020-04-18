@@ -17,6 +17,10 @@ i {
   color: #85f287;
 }
 
+hr {
+  width: 100%;  
+}
+
 .baby-background,
 .child-background,
 .toddler-background,
@@ -132,7 +136,7 @@ i {
   transform: scale(1.3);
 }
 
-.post-title {
+.grid-card .post-title {
   text-align: center;
 }
 
@@ -263,8 +267,13 @@ i {
 
 .blog-button {
   background: #85f287;
-  color: #333;
+  color: #000;
   border: none;
+  margin-left: auto;
+}
+
+.blog-button:hover {
+  background: #79db7a;
 }
 
 .share-bar {
