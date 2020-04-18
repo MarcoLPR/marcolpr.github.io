@@ -267,9 +267,10 @@ hr {
 
 .blog-button {
   background: #85f287;
-  color: #000;
+  color: #fff;
   border: none;
   margin-left: auto;
+  display: block
 }
 
 .footer {
