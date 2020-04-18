@@ -4,7 +4,7 @@ title: "Inicio"
 ---
 <h2 class="blog-title">Blog</h2>
 <div class="blog-background">
-    <section class="col-12 col-md-8" itemscope itemtype="http://schema.org/Blog">
+    <section class="col-12 col-md-7" itemscope itemtype="http://schema.org/Blog">
         {% for post in paginator.posts %}
         <article class="blog-card" itemprop="blogPosts" itemscope itemtype="http://schema.org/BlogPosting">
             <meta itemprop="name" content="{{post.title}}" />
@@ -50,20 +50,20 @@ title: "Inicio"
             a comentar y seguir nuestras publicaciones.
         </p>
     </div>
-    <div class="col-8 blog-card">
+    <div class="pagination">
         {% if paginator.next_page %}
-        <div class="col-4 newer-posts">
+        <div>
             <a href="{{ paginator.next_page_path }}" class="previous">
                 <i class="fa fa-chevron-left"></i>
                 <span>Art&iacute;culos anteriores</span>
             </a>
         </div>
         {% endif %}
-        <div class="col-4 page-num">
+        <div>
             <span>P&aacute;gina {{ paginator.page }} de {{ paginator.total_pages }}</span>
         </div>
         {% if paginator.previous_page %}
-        <div class="col-4 older-posts">
+        <div>
             <a href="{{ paginator.previous_page_path }}" class="next">
                 <span>Art&iacute;culos nuevos</span>
                 <i class="fa fa-chevron-right"></i>
