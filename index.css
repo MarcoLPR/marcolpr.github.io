@@ -12,6 +12,11 @@ div {
   font-family: 'Poppins', sans-serif;
 }
 
+i {
+  font-size: 35px;
+  color: #85f287;
+}
+
 .baby-background,
 .child-background,
 .toddler-background,
@@ -248,6 +253,25 @@ div {
 
 .lead {
   max-width: 50%;
+}
+
+.action-bar {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.blog-button {
+  background: #85f287;
+  color: #333;
+  border: none;
+}
+
+.share.bar {
+  width: 200px;
+  justify-content: space-between;
+  display: flex;
+  align-items: center;
 }
 
 .blog-card {
