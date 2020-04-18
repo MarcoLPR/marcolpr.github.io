@@ -17,12 +17,16 @@ i {
   color: #85f287;
 }
 
+i:hover {
+  color: #79db7a;
+}
+
 hr {
   width: 100%;
 }
 
 a:hover {
-  text-decoration: none;
+  text-decoration: none !important;
 }
 
 .baby-background,
