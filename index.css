@@ -303,7 +303,8 @@ a:hover {
   align-items: center;
 }
 
-.blog-card, .blog-helper {
+.blog-card,
+.blog-helper {
   background: #fff;
   color: #333;
   justify-content: space-evenly;
@@ -332,6 +333,21 @@ a:hover {
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+.previous,
+.next {
+  display: flex;
+  align-items: center;
+  color: #333;
+}
+
+.previous span {
+  margin-left: 10px;
+}
+
+.next span {
+  margin-right: 10px;
 }
 
 .color-change {
