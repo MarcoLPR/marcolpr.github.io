@@ -327,7 +327,7 @@ a:hover {
   padding: 45px 45px 100px;
 }
 
-.pagination div {
+.pagination-container div {
   grid-column: span 1;
   display: flex;
   align-items: center;
