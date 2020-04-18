@@ -2,22 +2,19 @@
 layout: default
 title: "Inicio"
 ---
----
-layout: default
-title: "Actividades para Bebes"
----
-<h2 class="baby-title">Blog</h2>
-<div class="baby-background">
-    <section class="col-12 col-md-8 grid container" itemscope itemtype="http://schema.org/Blog">
+<h2 class="blog-title">Blog</h2>
+<div class="blog-background">
+    <section class="col-12 col-md-8" itemscope itemtype="http://schema.org/Blog">
         {% for post in paginator.posts %}
-        <article class="grid-card" itemprop="blogPosts" itemscope itemtype="http://schema.org/BlogPosting">
+        <article class="blog-card" itemprop="blogPosts" itemscope itemtype="http://schema.org/BlogPosting">
             <meta itemprop="name" content="{{post.title}}" />
             <meta itemprop="image" content="{{post.image}}" />
             <div class="post-image" style="background-image: url({{post.image}});">&nbsp;</div>
             <h3 class="post-title" itemprop="headline"><a href="{{post.url}}">{{post.title}}</a></h2>
+                <p itemprop="description">{{post.excerpt | strip_html}}...</p>
                 <span class="d-none" itemprop="datePublished">{{post.date| date_to_string}}</span>
-                <p class="d-none" itemprop="description">{{post.excerpt | strip_html}}...</p>
         </article>
+        <hr />
         <!--
     {% if post.categories contains 'tibicos' %}
      use this to show badges of skills or areas of improvement of the activity
