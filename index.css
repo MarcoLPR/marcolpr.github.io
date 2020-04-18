@@ -30,6 +30,7 @@ hr {
   background-repeat: repeat;
   padding-top: 5px;
   display: flex;
+  flex-wrap: wrap;
 }
 
 .baby-background {
@@ -130,6 +131,7 @@ hr {
 .grid-card {
   grid-column: span 1;
   transition: transform 0.2s;
+  transition-delay: 0.5s;
 }
 
 .grid-card:hover {
