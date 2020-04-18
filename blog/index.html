@@ -39,43 +39,36 @@ title: "Inicio"
     -->
         {% endfor %}
     </section>
-    <div class="col-md-4">
-        <div class="blog-card">
-            <p>
-                Desde aquí podrás informarte acerca de lo que hacemos, ya sea que estés incursionando en el
-                ámbito de alimentos,
-                seas un foodie, o simplemente tengas curiosidad de cómo se prepara tu bebida favorita, en este
-                sitio podrás encontrar
-                la información que buscas, y si no es así, puedes contactarnos.<br><br> Somos una comunidad que
-                le agrada compartir, por lo que te invitamos
-                a comentar y seguir nuestras publicaciones.
-            </p>
-            <!--No olvides pasar por nuestro catálogo, donde podrás encontrar maravillosos productos y cursos especializados-->
-        </div>
+    <div class="blog-card col-md-4">
+        <p>
+            Desde aquí podrás informarte acerca de lo que hacemos, ya sea que estés incursionando en el
+            ámbito de alimentos,
+            seas un foodie, o simplemente tengas curiosidad de cómo se prepara tu bebida favorita, en este
+            sitio podrás encontrar
+            la información que buscas, y si no es así, puedes contactarnos.<br><br> Somos una comunidad que
+            le agrada compartir, por lo que te invitamos
+            a comentar y seguir nuestras publicaciones.
+        </p>
     </div>
 </div>
-<div class="posts-pagination">
-    <div class="container">
-        <div class="row">
-            {% if paginator.next_page %}
-            <div class="col-md-4 newer-posts">
-                <a href="{{ paginator.next_page_path }}" class="previous">
-                    <i class="fa fa-chevron-left"></i>
-                    <span>Art&iacute;culos anteriores</span>
-                </a>
-            </div>
-            {% endif %}
-            <div class="col-md-4 page-num">
-                <span>P&aacute;gina {{ paginator.page }} de {{ paginator.total_pages }}</span>
-            </div>
-            {% if paginator.previous_page %}
-            <div class="col-md-4 older-posts">
-                <a href="{{ paginator.previous_page_path }}" class="next">
-                    <span>Art&iacute;culos nuevos</span>
-                    <i class="fa fa-chevron-right"></i>
-                </a>
-            </div>
-            {% endif %}
-        </div>
+<div class="blog-card">
+    {% if paginator.next_page %}
+    <div class="col-4 newer-posts">
+        <a href="{{ paginator.next_page_path }}" class="previous">
+            <i class="fa fa-chevron-left"></i>
+            <span>Art&iacute;culos anteriores</span>
+        </a>
     </div>
+    {% endif %}
+    <div class="col-4 page-num">
+        <span>P&aacute;gina {{ paginator.page }} de {{ paginator.total_pages }}</span>
+    </div>
+    {% if paginator.previous_page %}
+    <div class="col-4 older-posts">
+        <a href="{{ paginator.previous_page_path }}" class="next">
+            <span>Art&iacute;culos nuevos</span>
+            <i class="fa fa-chevron-right"></i>
+        </a>
+    </div>
+    {% endif %}
 </div>
