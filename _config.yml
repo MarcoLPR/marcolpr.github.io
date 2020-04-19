@@ -5,6 +5,7 @@ gems:
   
 paginate: 6
 paginate_path: blog/page:num/
+permalink: /:title/
 
 plugins: [jekyll-paginate]
 
