@@ -8,8 +8,6 @@ paginate_path: blog/page:num/
 
 plugins: [jekyll-paginate]
 
-permalink: /:title
-
 authors:
   monse:
     name: Monserrat Delgadillo
