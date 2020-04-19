@@ -243,7 +243,11 @@ a:hover {
 .dropdown-item:focus,
 .dropdown-item {
   background-color: #f8f9fa !important;
-  color: #fff !important;
+  color: #333 !important;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: #333 !important;
 }
 
 .contact-card {
