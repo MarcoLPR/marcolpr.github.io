@@ -3,6 +3,7 @@ layout: post
 title:  "Ginger Ale, una comparación"
 author: monse
 tags: tibicos sodapop
+categories: Actividad
 image: /assets/posts/100717/tibi.JPG
 ---
 Continuando con las bebidas gasificadas, una de las que encuentro más placenteras es el ginger ale, su combinación de ligera pungencia y efervescencia hacen de ella un buen acompañamiento para algunos destilados, sin embargo, las marcas comerciales contienen muy poco de este picor tan característico del jengibre, por lo que prefiero elaborar mi propio ginger ale y disfrutarlo en alguna cena con amigos.
