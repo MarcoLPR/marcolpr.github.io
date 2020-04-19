@@ -4,7 +4,7 @@ title: "Inicio"
 ---
 <h2 class="blog-title">Blog</h2>
 <div class="blog-background">
-    <section class="col-12 col-md-7" itemscope itemtype="http://schema.org/Blog">
+    <section class="col-12 col-md-8" itemscope itemtype="http://schema.org/Blog">
         {% for post in paginator.posts %}
         <article class="blog-card" itemprop="blogPosts" itemscope itemtype="http://schema.org/BlogPosting">
             <meta itemprop="name" content="{{post.title}}" />
@@ -39,7 +39,7 @@ title: "Inicio"
     -->
         {% endfor %}
     </section>
-    <div class="blog-helper col-md-4 col-12">
+    <div class="blog-helper col-md-3 col-12">
         <p>
             Desde aquí podrás informarte acerca de lo que hacemos, ya sea que estés incursionando en el
             ámbito de alimentos,

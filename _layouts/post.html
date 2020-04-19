@@ -4,7 +4,7 @@ layout: default
 {% assign author = site.authors[page.author] %}
 <h2 class="blog-title">{{page.title}}</h2>
 <div class="blog-background">
-    <article class="col-12 col-md-7" itemscope itemtype="http://schema.org/BlogPosting">
+    <article class="col-12 col-md-8 blog-card" itemscope itemtype="http://schema.org/BlogPosting">
         <meta itemprop="name" content="{{page.title}}" />
         <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
             <meta itemprop="name" content="Science for Nourishment">
@@ -56,7 +56,7 @@ layout: default
         </div>
         {% endif %}
     </article>
-    <div class="col-md-4 blog-card">
+    <div class="col-12 col-md-3 blog-helper">
         <img class="contact-img" src="{{author.image}}" alt="{{author.name}}" />
         <div class="author-info">
             <h2 rel="author">{{author.name}}</h2>
