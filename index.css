@@ -325,6 +325,15 @@ a:hover {
   height: inherit;
 }
 
+.blog-helper img {
+  margin: auto;
+}
+
+.blog-helper h2 {
+  text-align: center;
+  padding: 10px;
+}
+
 .pagination-container {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
