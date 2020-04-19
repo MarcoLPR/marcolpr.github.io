@@ -18,8 +18,30 @@ title: "Blog"
                 <div class="action-bar">
                     <div class="share-bar">
                         <span>Desarrolla:</span>
-                        <i class="fab fa-facebook-square"></i>
-                        <i class="fab fa-instagram-square"></i>
+                        {% if post.tags contains 'linguistica' %}
+                        <i class="fas fa-comment-dots"></i>
+                        {% endif %}
+                        {% if post.tags contains 'logica' %}
+                        <i class="fas fa-cogs"></i>
+                        {% endif %}
+                        {% if post.tags contains 'espacial' %}
+                        <i class="fas fa-cubes"></i>
+                        {% endif %}
+                        {% if post.tags contains 'musical' %}
+                        <i class="fas fa-music"></i>
+                        {% endif %}
+                        {% if post.tags contains 'corporal' %}
+                        <i class="fas fa-cogs"></i>
+                        {% endif %}
+                        {% if post.tags contains 'intrapersonal' %}
+                        <i class="fas fa-grin"></i>
+                        {% endif %}
+                        {% if post.tags contains 'interpersonal' %}
+                        <i class="fas fa-handshake"></i>
+                        {% endif %}
+                        {% if post.tags contains 'naturalista' %}
+                        <i class="fas fa-leaf"></i>
+                        {% endif %}
                     </div>
                     <div class="share-bar">
                         <span>Compartir:</span>
