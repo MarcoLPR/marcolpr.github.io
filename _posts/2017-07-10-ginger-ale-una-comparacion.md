@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ginger Ale, una comparación"
-author: alejandro
+author: monse
 tags: tibicos sodapop
 image: /assets/posts/100717/tibi.JPG
 ---
