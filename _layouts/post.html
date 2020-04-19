@@ -23,20 +23,10 @@ layout: default
                     <div class="post">
                         <div class="post-content" itemprop="articleBody">{{content}}</div>
                         <hr />
-
-                        <div class="hidden-sm hidden-xs">
-                            <p>Continua leyendo m&aacute;s art&iacute;culos sobre: </p>
-                            <ul class="list-inline list-post-tags">
-                                {% for tag in page.tags %}
-                                <li><a href="/tag/{{tag}}">#{{tag}}</a></li>
-                                {% endfor %}
-                            </ul>
-                        </div>
-
                         <div class="post-meta">
-                            Fecha: <span itemprop="datePublished"> {{page.date | date_to_string}}</span>- autor
+                            Fecha: <span itemprop="datePublished"> {{page.date | date_to_string}}</span> - Escrito por:
                             <span itemprop="author" itemscope itemtype="http://schema.org/Person">
-                                <span itemprop="name" class="author-name">{{author.name}}</span>
+                                <span itemprop="name" class="author-name"> {{author.name}}</span>
                             </span>
                         </div>
                         <hr />
@@ -44,15 +34,6 @@ layout: default
                             <div class="col-md-12">
                                 <div id="disqus_thread"></div>
                                 <script>
-                                    /**
-    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
-                                    /*
-                                    var disqus_config = function () {
-                                    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
-                                    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-                                    };
-                                    */
                                     (function () { // DON'T EDIT BELOW THIS LINE
                                         var d = document, s = d.createElement('script');
                                         s.src = 'https://science-for-nourishment.disqus.com/embed.js';
@@ -64,31 +45,24 @@ layout: default
                                 <noscript>Please enable JavaScript to view the <a
                                         href="https://disqus.com/?ref_noscript">comments powered by
                                         Disqus.</a></noscript>
-
                             </div>
                         </div>
                         <div class="row">
                             <div class="col-md-12">
                                 <hr />
                                 <p>Continua leyendo con nosotros. Podr&iacute;an interesarte los siguientes
-                                    art&iacute;culo:</p>
+                                    art&iacute;culos:</p>
                             </div>
                             {% if page.previous %}
                             <div class="col-md-6" style="padding: 0; min-height: 200px; overflow: hidden">
-                                <div
-                                    style="background-image: url({{page.previous.image}}); background-size: cover; opacity: 0.4; float: right; width: 100%; min-height: 200px;">
-                                </div>
-                                <div style="position: absolute; margin: 10px;">
+                                <div>
                                     <h2><a href="{{page.previous.url}}">{{page.previous.title}}</a></h2>
                                     <p>{{page.previous.excerpt | strip_html | truncate: 30 }}...</p>
                                 </div>
                             </div>
                             {% endif %} {% if page.next %}
                             <div class="col-md-6" style="padding: 0; min-height: 200px; overflow: hidden">
-                                <div
-                                    style="background-image: url({{page.next.image}}); background-size: cover; opacity: 0.4; float: right; width: 100%; min-height: 200px;">
-                                </div>
-                                <div style="position: absolute; margin: 10px;">
+                                <div>
                                     <h2><a href="{{page.next.url}}">{{page.next.title}}</a></h2>
                                     <p>{{page.next.excerpt | strip_html | truncate: 30 }}...</p>
                                 </div>
@@ -97,14 +71,12 @@ layout: default
                         </div>
                     </div>
                 </div>
-                <div class="col-md-4">
-                    <div class="about border">
-                        <div class="author-image" style="border: 0">
-                            <img src="{{author.image}}" alt="{{author.name}}" title="{{author.name}}" />
-                        </div>
+                <div class="col-md-4 blog-card">
+                    <div class="blog-card">
+                        <img class="contact-img" src="{{author.image}}" alt="{{author.name}}" />
                         <div class="author-info">
                             <h2 rel="author">{{author.name}}</h2>
-                            <p class="hidden-sm hidden-xs">{{author.bio}}</p>
+                            <p class="d-none d-md-block">{{author.bio}}</p>
                         </div>
                         <br>
                         <div class="share-icons">
