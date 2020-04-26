@@ -357,6 +357,10 @@ i:hover .tooltip {
   margin: auto;
 }
 
+#fp-nav ul li a span, .fp-slidesNav ul li a span {
+  background-color: #fff !important;
+}
+
 .blog-helper h2 {
   text-align: center;
   padding: 10px;
