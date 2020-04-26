@@ -12,9 +12,13 @@ div {
   font-family: 'Poppins', sans-serif;
 }
 
-.blog-icon {
+.blog-icon, .baby-icon, .toddler-icon, .child-icon {
   font-size: 35px;
   margin: 0px 15px;
+  color: #85f287;
+}
+
+.blog-icon {
   color: #85f287;
 }
 
@@ -68,6 +72,14 @@ a:hover {
   background: #dda0dd;
 }
 
+.baby-icon {
+  color: #dda0dd;
+}
+
+.baby-icon:hover {
+  color: #d07cd0;
+}
+
 .blog-background {
   background-image: url('/assets/backgrounds/leaves.png');
 }
@@ -84,6 +96,14 @@ a:hover {
   background: #87cefa;
 }
 
+.child-icon {
+  color: #87cefa;
+}
+
+.child-icon:hover {
+  color: #3baff7;
+}
+
 .toddler-background {
   background-image: url('/assets/backgrounds/sun.png');
 }
@@ -92,8 +112,17 @@ a:hover {
   background: #ffa500;
 }
 
+.toddler-icon {
+  color: #ffa500;
+}
+
+.toddler-icon:hover {
+  color: #cc8500;
+}
+
 .white-text {
   color: #fff;
+  text-shadow: 1px 1px #333;
 }
 
 .center-text {
@@ -163,7 +192,7 @@ a:hover {
 }
 
 .grid-card:hover {
-  transform: scale(1.3);
+  transform: scale(1.1  );
 }
 
 .grid-card .post-title {
