@@ -439,35 +439,35 @@ i:hover .tooltip {
 }
 @-webkit-keyframes color-change {
   0% {
-    background: #19dcea;
+    background: #B0C2F2;
   }
   25% {
-    background: #b22cff;
+    background: #E9B0F2;
   }
   50% {
-    background: #ea2222;
+    background: #FFB6AE;
   }
   75% {
-    background: #f5be10;
+    background: #FAFCAF;
   }
   100% {
-    background: #3bd80d;
+    background: #B0F2C2;
   }
 }
 @keyframes color-change {
   0% {
-    background: #19dcea;
+    background: #B0C2F2;
   }
   25% {
-    background: #b22cff;
+    background: #E9B0F2;
   }
   50% {
-    background: #ea2222;
+    background: #FFB6AE;
   }
   75% {
-    background: #f5be10;
+    background: #FAFCAF;
   }
   100% {
-    background: #3bd80d;
+    background: #B0F2C2;
   }
 }
