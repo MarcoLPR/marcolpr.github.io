@@ -16,10 +16,10 @@ title: "Blog"
                 <hr />
                 <div class="action-bar">
                     <div class="blog-bar">
+                        {% if post.categories contains 'actividad' %}
                         <span>Desarrolla:</span>
                         {% if post.tags contains 'linguistica' %}
-                        <i class="blog-icon fas fa-comment-dots"><span class="tooltip">Inteligencia
-                                Linguistica</span></i>
+                        <i class="blog-icon fas fa-comment-dots"></i>
                         {% endif %}
                         {% if post.tags contains 'logica' %}
                         <i class="blog-icon fas fa-cogs"></i>
@@ -28,7 +28,7 @@ title: "Blog"
                         <i class="blog-icon fas fa-cubes"></i>
                         {% endif %}
                         {% if post.tags contains 'musical' %}
-                        <i class="blog-icon fas fa-music"><span class="tooltip">Inteligencia Musical</span></i>
+                        <i class="blog-icon fas fa-music"></i>
                         {% endif %}
                         {% if post.tags contains 'corporal' %}
                         <i class="blog-icon fas fa-cogs"></i>
@@ -41,6 +41,7 @@ title: "Blog"
                         {% endif %}
                         {% if post.tags contains 'naturalista' %}
                         <i class="blog-icon fas fa-leaf"></i>
+                        {% endif %}
                         {% endif %}
                     </div>
                     <div class="share-bar">
@@ -58,13 +59,14 @@ title: "Blog"
     </section>
     <div class="blog-helper col-md-3 col-12">
         <p>
-            Desde aquí podrás informarte acerca de lo que hacemos, ya sea que estés incursionando en el
-            ámbito de alimentos,
-            seas un foodie, o simplemente tengas curiosidad de cómo se prepara tu bebida favorita, en este
-            sitio podrás encontrar
-            la información que buscas, y si no es así, puedes contactarnos.<br><br> Somos una comunidad que
-            le agrada compartir, por lo que te invitamos
-            a comentar y seguir nuestras publicaciones.
+            En este blog podras encontrar articulos sobre educaci&oacute;n y varias actividades para todas las edades,
+            todo el
+            contenido en nuestra pagina es gratis. Estamos comprometidos con mejorar la calidad de vida y
+            educaci&oacute;n de
+            los niños<br><br>En cada publicaci&oacute;n podras encontrar unos iconos en la parte inferior izquierda,
+            estos se
+            refieren a las inteligencias que desarrolla la actividad segun la teoria de Gardner, puedes leer mas sobre
+            ella en este articulo.<br><br>No olvides compartir nuestras actividades y seguirnos en redes sociales.
         </p>
     </div>
     <div class="pagination-container">
