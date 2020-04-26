@@ -4,7 +4,7 @@ layout: default
 {% assign author = site.authors[page.author] %}
 <h2 class="blog-title">{{page.title}}</h2>
 <div class="blog-background">
-    <div class="col-12 col-md-8">
+    <div class="col-12 col-md-8 p-5">
         <article class="blog-card" itemscope itemtype="http://schema.org/BlogPosting">
             <meta itemprop="name" content="{{page.title}}" />
             <meta itemprop="image" content="{{page.image}}" />
@@ -53,9 +53,9 @@ layout: default
         {% if page.categories contains 'actividad' %}
         <div class="d-none d-md-block">
             <h2>Indice</h2>
-            <a href="#materiales">Materiales</a>
-            <a href="#instrucciones">Instrucciones</a>
-            <a href="#beneficios">Beneficios</a>
+            <a href="#materiales">Materiales</a><br />
+            <a href="#instrucciones">Instrucciones</a><br />
+            <a href="#beneficios">Beneficios</a><br />
             <hr />
         </div>
         {% endif %}
@@ -66,8 +66,7 @@ layout: default
         <hr />
         <div class="share-bar">
             <span>Contacto:</span>
-            <a href="mailto:{{author.email}}"><i
-                    class="blog-icon far fa-envelope"></i></a>
+            <a href="mailto:{{author.mail}}"><i class="blog-icon far fa-envelope"></i></a>
         </div>
         <hr />
         <div class="share-bar">
