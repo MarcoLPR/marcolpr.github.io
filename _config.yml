@@ -2,7 +2,7 @@ gems:
   - jekyll-redirect-from
   - jekyll-seo-tag
   - jekyll-sitemap
-  
+
 paginate: 6
 paginate_path: blog/page:num/
 permalink: /:title/
@@ -13,5 +13,8 @@ authors:
   monse:
     name: Monserrat Delgadillo
     image: /assets/authors/monse.jpg
-    bio: Lic. en Pedagogia por la UPN, originaria de Jalisco, Mexico.
+    bio:
+      Estudiante en la licenciatura de Pedagogia. Siempre he buscado ayudar a los niños
+      pequeños y
+      a los animales, me entusiasma crear una mejor sociedad desde la raiz.
 theme: jekyll-theme-cayman
