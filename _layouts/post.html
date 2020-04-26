@@ -51,16 +51,25 @@ layout: default
     </div>
     <div class="col-12 col-md-3 blog-helper">
         {% if page.categories contains 'actividad' %}
-        <h2>Indice</h2>
-        <a href="#descripcion">Descripcion</a>
-        <a href="#materiales">Materiales</a>
-        <a href="#instrucciones">Instrucciones</a>
-        <hr />
+        <div class="d-none d-md-block">
+            <h2>Indice</h2>
+            <a href="#materiales">Materiales</a>
+            <a href="#instrucciones">Instrucciones</a>
+            <a href="#beneficios">Beneficios</a>
+            <hr />
+        </div>
         {% endif %}
         <img class="contact-img" src="{{author.image}}" alt="{{author.name}}" />
         <h2 rel="author">{{author.name}}</h2>
         <p class="d-none d-md-block">{{author.bio}}</p>
         <br>
+        <hr />
+        <div class="share-bar">
+            <span>Contacto:</span>
+            <a href="mailto:{{author.email}}"><i
+                    class="blog-icon far fa-envelope"></i></a>
+        </div>
+        <hr />
         <div class="share-bar">
             <span>Compartir:</span>
             <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{page.url}}"
