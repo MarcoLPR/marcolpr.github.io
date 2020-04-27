@@ -7,11 +7,12 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="referrer" content="origin">
-    <title>{{page.title}} - MMActividades</title>
+    <title>{{page.title}} - Ludoteca Digital</title>
     {% seo title=false %}
     <meta name="theme-color" content="#ec9611">
     <meta name="msapplication-navbutton-color" content="#ec9611">
-    <meta name="description" content="">
+    <meta name="description"
+        content="Ludoteca Digital es un blog de actividades para niños de preescolar y primaria, didacticas y educativas">
     <script type="text/javascript"
         src="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/3.0.8/fullpage.min.js"></script>
     <link rel="stylesheet" type="text/css"
@@ -29,7 +30,6 @@
 
         gtag('config', 'UA-164625509-1');
     </script>
-
 </head>
 
 <body id="body">
@@ -67,9 +67,8 @@
     </nav>
     {{ content }}
     <div class="footer">
-        <span>MM Ludoteca Digital, 2020</span>
+        <span>Ludoteca Digital, 2020</span>
     </div>
-    <script src="/index.js"></script>
     <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
         integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n"
         crossorigin="anonymous"></script>
@@ -77,6 +76,32 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
         integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
         crossorigin="anonymous"></script>
+    <script>
+        window.onload = function () {
+            window.cookieconsent.initialise({
+                content: {
+                    header: 'Se utilizan cookies!',
+                    message:
+                        'Este sitio web utiliza cookies para asegurarse que reciba la mejor experiencia',
+                    dismiss: 'Ok',
+                    allow: 'Permitir cookies',
+                    deny: 'Rechazar',
+                    link: 'Aprender mas de Cookies',
+                    href: 'http://cookiesandyou.com',
+                    close: '&#x274c;',
+                },
+                palette: {
+                    popup: {
+                        background: '#000',
+                    },
+                    button: {
+                        background: '#f1d600',
+                    },
+                },
+                theme: 'classic',
+            });
+        };
+    </script>
 </body>
 
 </html>
