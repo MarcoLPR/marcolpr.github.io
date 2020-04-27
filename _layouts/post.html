@@ -1,6 +1,5 @@
 ---
 layout: default
-comments: true
 ---
 {% assign author = site.authors[page.author] %}
 <h2 class="blog-title">{{page.title}}</h2>
@@ -21,7 +20,6 @@ comments: true
                 </span>
             </div>
             <hr />
-            {% if page.comments %}
             <div id="disqus_thread"></div>
             <script>
                 (function () {
@@ -35,7 +33,6 @@ comments: true
                     powered by
                     Disqus.</a></noscript>
             <hr />
-            {% endif %}
             <p>Continua leyendo con nosotros. Podr&iacute;an interesarte los siguientes
                 art&iacute;culos:</p>
             <div class="action-bar">
@@ -68,7 +65,7 @@ comments: true
         <hr />
         <div class="share-bar">
             <span>Contacto:</span>
-            <a href="m.me/LudotecaDigitalES" class="blog-icon fab fa-facebook-square"></i></a>
+            <a href="https://m.me/LudotecaDigitalES" class="blog-icon fab fa-facebook-square"></i></a>
             <a href="mailto:{{author.mail}}"><i class="blog-icon far fa-envelope"></i></a>
         </div>
         <hr />
