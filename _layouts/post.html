@@ -48,35 +48,37 @@ layout: default
             </div>
         </article>
     </div>
-    <div class="col-12 col-md-3 blog-helper">
-        {% if page.categories contains 'actividad' %}
-        <div class="d-none d-md-block">
-            <h2>Indice</h2>
-            <a href="#materiales">Materiales</a><br />
-            <a href="#instrucciones">Instrucciones</a><br />
-            <a href="#beneficios">Beneficios</a><br />
+    <div class="col-12 col-md-3">
+        <div class="blog-helper">
+            {% if page.categories contains 'actividad' %}
+            <div class="d-none d-md-block">
+                <h2>Indice</h2>
+                <a href="#materiales">Materiales</a><br />
+                <a href="#instrucciones">Instrucciones</a><br />
+                <a href="#beneficios">Beneficios</a><br />
+                <hr />
+            </div>
+            {% endif %}
+            <img class="contact-img" src="{{author.image}}" alt="{{author.name}}" />
+            <h2 rel="author">{{author.name}}</h2>
+            <p class="d-none d-md-block">{{author.bio}}</p>
+            <br>
             <hr />
-        </div>
-        {% endif %}
-        <img class="contact-img" src="{{author.image}}" alt="{{author.name}}" />
-        <h2 rel="author">{{author.name}}</h2>
-        <p class="d-none d-md-block">{{author.bio}}</p>
-        <br>
-        <hr />
-        <div class="share-bar">
-            <span>Contacto:</span>
-            <a href="https://m.me/LudotecaDigitalES" class="blog-icon fab fa-facebook-square"></i></a>
-            <a href="mailto:{{author.mail}}"><i class="blog-icon far fa-envelope"></i></a>
-        </div>
-        <hr />
-        <div class="share-bar">
-            <span>Compartir:</span>
-            <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{page.url}}"
-                onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;"><i
-                    class="blog-icon fab fa-facebook-square"></i></a>
-            <a href="https://twitter.com/share?text={{post.title}}&amp;url={{ site.url }}{{page.url}}"
-                onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;"><i
-                    class="blog-icon fab fa-instagram-square"></i></a>
+            <div class="share-bar">
+                <span>Contacto:</span>
+                <a href="https://m.me/LudotecaDigitalES" class="blog-icon fab fa-facebook-square"></i></a>
+                <a href="mailto:{{author.mail}}"><i class="blog-icon far fa-envelope"></i></a>
+            </div>
+            <hr />
+            <div class="share-bar">
+                <span>Compartir:</span>
+                <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{page.url}}"
+                    onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;"><i
+                        class="blog-icon fab fa-facebook-square"></i></a>
+                <a href="https://twitter.com/share?text={{post.title}}&amp;url={{ site.url }}{{page.url}}"
+                    onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;"><i
+                        class="blog-icon fab fa-instagram-square"></i></a>
+            </div>
         </div>
     </div>
 </div>

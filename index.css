@@ -12,7 +12,10 @@ div {
   font-family: 'Poppins', sans-serif;
 }
 
-.blog-icon, .baby-icon, .toddler-icon, .child-icon {
+.blog-icon,
+.baby-icon,
+.toddler-icon,
+.child-icon {
   font-size: 35px;
   margin: 0px 15px;
   color: #85f287;
@@ -51,6 +54,7 @@ a:hover {
   padding-top: 5px;
   display: flex;
   flex-wrap: wrap;
+  padding-bottom: 50px;
 }
 
 .baby-background {
@@ -196,7 +200,7 @@ a:hover {
 }
 
 .grid-card:hover {
-  transform: scale(1.1  );
+  transform: scale(1.1);
 }
 
 .grid-card .post-title {
@@ -480,14 +484,17 @@ i:hover .tooltip {
   }
   .post-title a {
     font-size: 6vmin;
-}
-.share-bar {
-  width: auto;
-}
-.blog-icon {
-  font-size: 25px;
-  margin: 0px 7px;
-}
+  }
+  .share-bar {
+    width: auto;
+  }
+  .blog-icon {
+    font-size: 25px;
+    margin: 0px 7px;
+  }
+  .pagination-container {
+    padding: 25px 10px 100px;
+  }
 }
 
 /* Keyframes */
