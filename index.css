@@ -230,7 +230,7 @@ a:hover {
   width: 100%;
 }
 .animated-title > div div {
-  font-size: 11vmin;
+  font-size: 10vmin;
   padding: 2vmin 0;
   position: absolute;
 }
@@ -456,6 +456,10 @@ i:hover .tooltip {
   height: 100%;
 }
 
+.text-button div span {
+  font-size: 8vmin;
+}
+
 /* Mobile */
 @media (max-width: 768px) {
   .grid-card {
@@ -470,6 +474,20 @@ i:hover .tooltip {
   #about .animated-title {
     width: 60vmin;
   }
+  .blog-card {
+    margin: 10px;
+    padding: 10px;
+  }
+  .post-title a {
+    font-size: 6vmin;
+}
+.share-bar {
+  width: auto;
+}
+.blog-icon {
+  font-size: 25px;
+  margin: 0px 7px;
+}
 }
 
 /* Keyframes */
