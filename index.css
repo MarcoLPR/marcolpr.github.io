@@ -15,10 +15,10 @@ div {
 .blog-icon,
 .baby-icon,
 .toddler-icon,
-.child-icon {
+.child-icon,
+.nav-icon {
   font-size: 35px;
   margin: 0px 15px;
-  color: #85f287;
 }
 
 .blog-icon {
@@ -412,6 +412,10 @@ i:hover .tooltip {
   margin: auto;
 }
 
+.nav-icon {
+  color: #333;
+}
+
 #fp-nav ul li a span,
 .fp-slidesNav ul li a span {
   background-color: #fff !important;
@@ -491,7 +495,7 @@ i:hover .tooltip {
     justify-content: space-evenly;
     font-size: 13px;
   }
-  .blog-icon, .toddler-icon, .child-icon, .baby-icon {
+  .blog-icon, .toddler-icon, .child-icon, .baby-icon, .nav-icon {
     font-size: 25px;
     margin: 0px 7px;
   }
