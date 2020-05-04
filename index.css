@@ -488,8 +488,9 @@ i:hover .tooltip {
   }
   .share-bar {
     width: auto;
+    justify-content: space-evenly;
   }
-  .blog-icon {
+  .blog-icon, .toddler-icon, .child-icon, .baby-icon {
     font-size: 25px;
     margin: 0px 7px;
   }
