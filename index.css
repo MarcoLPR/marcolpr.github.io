@@ -465,7 +465,7 @@ i:hover .tooltip {
 }
 
 /* Mobile */
-@media (max-width: 768px) {
+@media (max-width: 767px) {
   .grid-card {
     grid-column: span 3;
   }
@@ -486,9 +486,10 @@ i:hover .tooltip {
   .post-title a {
     font-size: 6vmin;
   }
-  .share-bar {
+  .share-bar, .blog-bar {
     width: auto;
     justify-content: space-evenly;
+    font-size: 13px;
   }
   .blog-icon, .toddler-icon, .child-icon, .baby-icon {
     font-size: 25px;
