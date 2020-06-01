@@ -19,7 +19,7 @@ Desarrollar sus capacidades de razonamiento, análisis, agrupación e identifica
 
 ## Instrucciones 
 
-Sobre el suelo de nuestra casa, hacer figuras geométricas con la cinta, en las hojas recortar las mismas figuras pero más pequeñas para después dárselas al pequeños y que él mismo las acomode en la figura que corresponde. 
+Sobre el suelo, hacer figuras geométricas con la cinta, en las hojas recortar las mismas figuras pero más pequeñas para después dárselas al pequeño y que él mismo las acomode en la figura que corresponde. 
 
 
 ## Beneficios 

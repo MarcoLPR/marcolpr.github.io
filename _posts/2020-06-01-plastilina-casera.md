@@ -6,7 +6,7 @@ categories: [infantes, actividad]
 author: monse
 image: /assets/posts/2020-06-01-plastilina-casera.jpeg
 ---
-![Actividad de plastilina](/assets/posts/2020-06-01-plastilina-casera.jpg)
+![Actividad de plastilina](/assets/posts/2020-06-01-plastilina-casera.jpeg)
 ¡Desarrollar su sentido del tacto es tan sencillo con una plastilina casera que haremos nosotros mismos de forma rápida y sencilla!
 
 ## Materiales 
@@ -19,7 +19,7 @@ image: /assets/posts/2020-06-01-plastilina-casera.jpeg
 
 ## Instrucciones 
 
-Vaciar en un recipiente la harina y la sal, pintar pintar ¼ de agua con el colorante del color deseado para después mezclar todos los ingredientes hasta obtener una masa uniforme.  
+Vaciar en un recipiente la harina y la sal, pintar ¼ de agua con el colorante del color deseado para después mezclar todos los ingredientes hasta obtener una masa uniforme.  
 
 
 ## Beneficios 
