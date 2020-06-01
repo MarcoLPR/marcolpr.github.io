@@ -7,7 +7,7 @@ title: "Blog"
     src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v6.0"></script>
 <h2 class="blog-title">Blog</h2>
 <div class="blog-background">
-    <section class="col-12 col-md-8" itemscope itemtype="http://schema.org/Blog">
+    <section class="col-12 col-md-8 pl-md-5" itemscope itemtype="http://schema.org/Blog">
         {% for post in paginator.posts %}
         <article class="blog-card" itemprop="blogPosts" itemscope itemtype="http://schema.org/BlogPosting">
             <meta itemprop="name" content="{{post.title}}" />
@@ -60,7 +60,7 @@ title: "Blog"
         </article>
         {% endfor %}
     </section>
-    <div class="col-md-3 col-12">
+    <div class="col-md-4 pr-md-5 col-12">
         <div class="blog-helper">
             <p>
                 En este blog podras encontrar articulos sobre educaci&oacute;n y varias actividades para todas las

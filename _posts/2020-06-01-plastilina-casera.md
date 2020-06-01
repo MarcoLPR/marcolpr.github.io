@@ -7,9 +7,7 @@ author: monse
 image: /assets/posts/2020-06-01-plastilina-casera.jpeg
 ---
 ![Actividad de plastilina](/assets/posts/2020-06-01-plastilina-casera.jpg)
-
 ¡Desarrollar su sentido del tacto es tan sencillo con una plastilina casera que haremos nosotros mismos de forma rápida y sencilla!
-
 
 ## Materiales 
 
