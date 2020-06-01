@@ -4,7 +4,7 @@ title:  "Plastilina Casera"
 tags: [corporal]
 categories: [infantes, actividad]
 author: monse
-image: /assets/posts/2020-06-01-plastilna-casera.jpeg
+image: /assets/posts/2020-06-01-plastilina-casera.jpeg
 ---
 ![Actividad de plastilina](/assets/posts/2020-06-01-plastilina-casera.jpg)
 
