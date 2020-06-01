@@ -25,7 +25,3 @@ Llenar el recipiente con los cereales o los bombones, después introducir los cu
 ## Beneficios 
 
 Al tocar los materiales y sentir que cada uno es diferente, el niño aprenderá a diferenciar, percibir y mantener su atención en lo que hace de forma ¡Divertida!
-
-Titulo; estimulación sensorial 
-Edad; Bebés 1-2
-Inteligencia corporal y cinestésica 
