@@ -285,28 +285,25 @@ i:hover .tooltip {
   visibility: visible;
 }
 
-.jumbotron-fluid {
-  background-color: rgba(233, 236, 239, 0.5);
-}
-
 .navbar {
   z-index: 50000;
+  background: #333;
 }
 
 .section {
-  height: 100vh;
+  height: calc(100vh - 65px);
 }
 
 .dropdown-menu,
 .dropdown-item:hover,
 .dropdown-item:focus,
 .dropdown-item {
-  background-color: #f8f9fa !important;
-  color: #333 !important;
+  background-color: #333 !important;
+  color: #fff !important;
 }
 
-.navbar-light .navbar-nav .nav-link {
-  color: #333 !important;
+.navbar-nav .nav-link {
+  color: #fff !important;
 }
 
 .contact-card {
