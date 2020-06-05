@@ -243,7 +243,8 @@ a:hover {
   display: block;
 }
 .animated-title > div.text-top {
-  border-bottom: 1vmin solid #fff;
+  -webkit-animation: color-change-border 30s linear infinite alternate both;
+  animation: color-change-border 30s linear infinite alternate both;
   top: 0;
 }
 .animated-title > div.text-top div {
@@ -254,7 +255,8 @@ a:hover {
   transform: translate(0, 100%);
 }
 .animated-title > div.text-top div span:first-child {
-  color: #fff;
+  -webkit-animation: color-change 30s linear infinite alternate both;
+  animation: color-change 30s linear infinite alternate both;
 }
 .animated-title > div.text-bottom {
   bottom: 0;
@@ -265,25 +267,6 @@ a:hover {
   animation-fill-mode: forwards;
   top: 0;
   transform: translate(0, -100%);
-}
-
-.first-gradient {
-  background: rgb(131, 58, 180);
-  background: linear-gradient(
-    90deg,
-    rgba(131, 58, 180, 1) 0%,
-    rgba(253, 29, 29, 1) 50%,
-    rgba(252, 176, 69, 1) 100%
-  );
-}
-
-.second-gradient {
-  background: rgb(69, 205, 252);
-  background: radial-gradient(
-    circle,
-    rgba(69, 205, 252, 1) 0%,
-    rgba(254, 97, 248, 1) 100%
-  );
 }
 
 i .tooltip {
@@ -461,6 +444,10 @@ i:hover .tooltip {
   animation: color-change 30s linear infinite alternate both;
 }
 
+.color-change-border {
+  -webkit-animation: color-change-border 30s linear infinite alternate both;
+  animation: color-change-border 30s linear infinite alternate both;
+}
 .d-lg-block {
   height: 100%;
 }
@@ -484,19 +471,25 @@ i:hover .tooltip {
   #about .animated-title {
     width: 60vmin;
   }
-  .blog-card, .blog-helper {
+  .blog-card,
+  .blog-helper {
     margin: 10px;
     padding: 10px;
   }
   .post-title a {
     font-size: 6vmin;
   }
-  .share-bar, .blog-bar {
+  .share-bar,
+  .blog-bar {
     width: auto;
     justify-content: space-evenly;
     font-size: 13px;
   }
-  .blog-icon, .toddler-icon, .child-icon, .baby-icon, .nav-icon {
+  .blog-icon,
+  .toddler-icon,
+  .child-icon,
+  .baby-icon,
+  .nav-icon {
     font-size: 25px;
     margin: 0px 7px;
   }
@@ -558,5 +551,40 @@ i:hover .tooltip {
   }
   100% {
     color: #3bd80d;
+  }
+}
+
+@-webkit-keyframes color-change-border {
+  0% {
+    margin-bottom: 1vmin solid#19dcea;
+  }
+  25% {
+    margin-bottom: 1vmin solid#b22cff;
+  }
+  50% {
+    margin-bottom: 1vmin solid#ea2222;
+  }
+  75% {
+    margin-bottom: 1vmin solid#f5be10;
+  }
+  100% {
+    margin-bottom: 1vmin solid#3bd80d;
+  }
+}
+@keyframes color-change-border {
+  0% {
+    margin-bottom: 1vmin solid#19dcea;
+  }
+  25% {
+    margin-bottom: 1vmin solid#b22cff;
+  }
+  50% {
+    margin-bottom: 1vmin solid#ea2222;
+  }
+  75% {
+    margin-bottom: 1vmin solid#f5be10;
+  }
+  100% {
+    margin-bottom: 1vmin solid#3bd80d;
   }
 }
