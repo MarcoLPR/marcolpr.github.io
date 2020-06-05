@@ -347,7 +347,7 @@ i:hover .tooltip {
 }
 
 .footer {
-  background-color: #191919;
+  background-color: #333;
   width: 100%;
   height: 40px;
   padding-top: 10px;
@@ -400,11 +400,6 @@ i:hover .tooltip {
   color: #333;
 }
 
-#fp-nav ul li a span,
-.fp-slidesNav ul li a span {
-  background-color: #fff !important;
-}
-
 .blog-helper h2 {
   text-align: center;
   padding: 10px;
@@ -449,6 +444,10 @@ i:hover .tooltip {
   animation: color-change-border 30s linear infinite alternate both;
 }
 .d-lg-block {
+  height: 100%;
+}
+
+.h-100 {
   height: 100%;
 }
 
@@ -556,35 +555,35 @@ i:hover .tooltip {
 
 @-webkit-keyframes color-change-border {
   0% {
-    margin-bottom: 1vmin solid#19dcea;
+    border-bottom: 1vmin solid#19dcea;
   }
   25% {
-    margin-bottom: 1vmin solid#b22cff;
+    border-bottom: 1vmin solid#b22cff;
   }
   50% {
-    margin-bottom: 1vmin solid#ea2222;
+    border-bottom: 1vmin solid#ea2222;
   }
   75% {
-    margin-bottom: 1vmin solid#f5be10;
+    border-bottom: 1vmin solid#f5be10;
   }
   100% {
-    margin-bottom: 1vmin solid#3bd80d;
+    border-bottom: 1vmin solid#3bd80d;
   }
 }
 @keyframes color-change-border {
   0% {
-    margin-bottom: 1vmin solid#19dcea;
+    border-bottom: 1vmin solid#19dcea;
   }
   25% {
-    margin-bottom: 1vmin solid#b22cff;
+    border-bottom: 1vmin solid#b22cff;
   }
   50% {
-    margin-bottom: 1vmin solid#ea2222;
+    border-bottom: 1vmin solid#ea2222;
   }
   75% {
-    margin-bottom: 1vmin solid#f5be10;
+    border-bottom: 1vmin solid#f5be10;
   }
   100% {
-    margin-bottom: 1vmin solid#3bd80d;
+    border-bottom: 1vmin solid#3bd80d;
   }
 }
