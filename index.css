@@ -219,7 +219,8 @@ a:hover {
 }
 
 .animated-title {
-  color: #fff;
+  -webkit-animation: color-change 30s linear infinite alternate both;
+  animation: color-change 30s linear infinite alternate both;
   height: 90vmin;
   left: 50%;
   position: absolute;
@@ -527,35 +528,35 @@ i:hover .tooltip {
 }
 @-webkit-keyframes color-change {
   0% {
-    background: #19dcea;
+    color: #19dcea;
   }
   25% {
-    background: #b22cff;
+    color: #b22cff;
   }
   50% {
-    background: #ea2222;
+    color: #ea2222;
   }
   75% {
-    background: #f5be10;
+    color: #f5be10;
   }
   100% {
-    background: #3bd80d;
+    color: #3bd80d;
   }
 }
 @keyframes color-change {
   0% {
-    background: #19dcea;
+    color: #19dcea;
   }
   25% {
-    background: #b22cff;
+    color: #b22cff;
   }
   50% {
-    background: #ea2222;
+    color: #ea2222;
   }
   75% {
-    background: #f5be10;
+    color: #f5be10;
   }
   100% {
-    background: #3bd80d;
+    color: #3bd80d;
   }
 }
