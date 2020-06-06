@@ -34,6 +34,11 @@ div {
   justify-content: space-between;
   display: flex;
   align-items: center;
+  font-size: 14px;
+}
+
+.blog-bar i {
+  font-size: 30px;
 }
 
 hr {
@@ -377,6 +382,11 @@ i:hover .tooltip {
   justify-content: space-between;
   display: flex;
   align-items: center;
+  font-size: 14px;
+}
+
+.share-bar i {
+  font-size: 30px;
 }
 
 .big-link {
