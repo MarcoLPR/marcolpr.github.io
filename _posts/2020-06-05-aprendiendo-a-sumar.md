@@ -6,7 +6,7 @@ categories: [ninos, actividad]
 author: monse
 image: /assets/posts/2020-06-05-aprendiendo-a-sumar.jpeg
 ---
-![Actividad de sumas](/assets/posts/2020-06-05-aprendiendo-a-sumar.jpeg)
+![Actividad de sumas](/assets/posts/2020-06-05-aprendiendo-a-sumar.jpeg)<br/>
 Sumar siempre será un reto para nuestros pequeños, pero si lo hacemos de forma divertida y fácil, aprenderán de mejor forma. 
 
 ## Materiales 

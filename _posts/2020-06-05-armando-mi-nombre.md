@@ -6,7 +6,7 @@ categories: [ninos, actividad]
 author: monse
 image: /assets/posts/2020-06-05-armando-mi-nombre.jpeg
 ---
-![Actividad de mi nombre](/assets/posts/2020-06-05-armando-mi-nombre.jpeg)
+![Actividad de mi nombre](/assets/posts/2020-06-05-armando-mi-nombre.jpeg)<br/>
 ¡Para nuestros pequeños que están aprendiendo a escribir mejor, este juego les resultará divertido y fácil!
 
 ## Materiales 

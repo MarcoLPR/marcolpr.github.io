@@ -6,7 +6,7 @@ categories: [bebes, actividad]
 author: monse
 image: /assets/posts/2020-06-05-concierto-musical.jpeg
 ---
-![Actividad de música](/assets/posts/2020-06-05-concierto-musical.jpeg)
+![Actividad de música](/assets/posts/2020-06-05-concierto-musical.jpeg)<br/>
 La música les fascina a los pequeños y más si ellos mismos la crean con sus manos. 
 
 ## Materiales 

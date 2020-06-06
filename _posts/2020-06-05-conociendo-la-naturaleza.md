@@ -6,7 +6,7 @@ categories: [infantes, actividad]
 author: monse
 image: /assets/posts/2020-06-05-conociendo-la-naturaleza.jpeg
 ---
-![Actividad de naturaleza](/assets/posts/2020-06-05-conociendo-la-naturaleza.jpeg)
+![Actividad de naturaleza](/assets/posts/2020-06-05-conociendo-la-naturaleza.jpeg)<br/>
 Enseñar a nuestros pequeños a cuidar y preservar el ambiente es tan divertido para aprender juntos. 
 
 ## Materiales 

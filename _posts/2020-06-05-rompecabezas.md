@@ -6,7 +6,7 @@ categories: [bebes, actividad]
 author: monse
 image: /assets/posts/2020-06-05-rompecabezas.jpeg
 ---
-![Actividad de rompecabezas](/assets/posts/2020-06-05-rompecabezas.jpeg)
+![Actividad de rompecabezas](/assets/posts/2020-06-05-rompecabezas.jpeg)<br/>
 Crear rompecabezas con los pequeños es tan sencillo que nos da mucha **más diversión.**
 
 ## Materiales 

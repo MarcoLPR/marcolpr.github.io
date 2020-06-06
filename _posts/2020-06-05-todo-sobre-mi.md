@@ -6,7 +6,7 @@ categories: [ninos, actividad]
 author: monse
 image: /assets/posts/2020-06-05-sobre-mi.jpeg
 ---
-![Actividad de oraciones](/assets/posts/2020-06-05-sobre-mi.jpeg)
+![Actividad de oraciones](/assets/posts/2020-06-05-sobre-mi.jpeg)<br/>
 Es importante que nuestros pequeños se conozcan a sí mismos, sobre todo si practican la **escritura** en el proceso. 
 
 ## Materiales 
