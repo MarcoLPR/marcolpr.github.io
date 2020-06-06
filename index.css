@@ -255,8 +255,8 @@ a:hover {
   display: block;
 }
 .animated-title > div.text-top {
-  -webkit-animation: color-change-border 30s linear infinite alternate both;
-  animation: color-change-border 30s linear infinite alternate both;
+  -webkit-animation: color-change-border 10s linear infinite alternate both;
+  animation: color-change-border 10s linear infinite alternate both;
   top: 0;
 }
 .animated-title > div.text-top div {
@@ -456,13 +456,13 @@ i:hover .tooltip {
 }
 
 .color-change {
-  -webkit-animation: color-change 30s linear infinite alternate both;
-  animation: color-change 30s linear infinite alternate both;
+  -webkit-animation: color-change 10s linear infinite alternate both;
+  animation: color-change 10s linear infinite alternate both;
 }
 
 .color-change-border {
-  -webkit-animation: color-change-border 30s linear infinite alternate both;
-  animation: color-change-border 30s linear infinite alternate both;
+  -webkit-animation: color-change-border 10s linear infinite alternate both;
+  animation: color-change-border 1s linear infinite alternate both;
 }
 .d-lg-block {
   height: 100%;
@@ -516,6 +516,10 @@ i:hover .tooltip {
   .pagination-container {
     padding: 25px 10px 100px;
     font-size: 14px;
+  }
+
+  .grid {
+    grid-column-gap: 10px;
   }
 }
 
