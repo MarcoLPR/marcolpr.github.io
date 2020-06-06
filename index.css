@@ -232,6 +232,7 @@ a:hover {
   top: 50%;
   transform: translate(-50%, -50%);
   width: 90vmin;
+  background: #fff;
 }
 .animated-title > div {
   height: 50%;
@@ -259,9 +260,11 @@ a:hover {
   bottom: 0;
   transform: translate(0, 100%);
 }
-.animated-title > div.text-top div span:first-child {
-  -webkit-animation: color-change 30s linear infinite alternate both;
-  animation: color-change 30s linear infinite alternate both;
+.animated-title > div.text-top div span {
+  padding-left: 20px;
+}
+.animated-title > div.text-bottom div span {
+  padding-left: 20px;
 }
 .animated-title > div.text-bottom {
   bottom: 0;
