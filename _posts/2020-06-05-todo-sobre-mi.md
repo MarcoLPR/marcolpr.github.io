@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title:  "Todo Sobre Mi"
-tags: [linguistica, intrapersonal]
+tags: [linguistica]
 categories: [ninos, actividad]
 author: monse
 image: /assets/posts/2020-06-05-sobre-mi.jpeg
