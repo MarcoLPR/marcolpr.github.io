@@ -9,73 +9,143 @@
 
 <url>
   <loc>https://www.ludoteca-digital.com/</loc>
-  <lastmod>2020-06-01T22:58:59+00:00</lastmod>
+  <lastmod>2020-06-06T22:58:21+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://www.ludoteca-digital.com/activities/babies/</loc>
-  <lastmod>2020-06-01T22:58:59+00:00</lastmod>
+  <loc>https://www.ludoteca-digital.com/actividades/bebes/</loc>
+  <lastmod>2020-06-06T22:58:21+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.ludoteca-digital.com/activities/toddlers/</loc>
-  <lastmod>2020-06-01T22:58:59+00:00</lastmod>
+  <loc>https://www.ludoteca-digital.com/actividades/infantes/</loc>
+  <lastmod>2020-06-06T22:58:21+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.ludoteca-digital.com/activities/children/</loc>
-  <lastmod>2020-06-01T22:58:59+00:00</lastmod>
+  <loc>https://www.ludoteca-digital.com/actividades/ninos/</loc>
+  <lastmod>2020-06-06T22:58:21+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.ludoteca-digital.com/blog/</loc>
-  <lastmod>2020-06-01T22:58:59+00:00</lastmod>
+  <lastmod>2020-06-06T22:58:21+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.ludoteca-digital.com/about/</loc>
-  <lastmod>2020-06-01T22:58:59+00:00</lastmod>
+  <loc>https://www.ludoteca-digital.com/acerca/</loc>
+  <lastmod>2020-06-06T22:58:21+00:00</lastmod>
   <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.ludoteca-digital.com/telefono/</loc>
+  <lastmod>2020-06-06T22:58:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.ludoteca-digital.com/rompecabezas/</loc>
+  <lastmod>2020-06-06T22:58:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.ludoteca-digital.com/concierto-musical/</loc>
+  <lastmod>2020-06-06T22:58:21+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.ludoteca-digital.com/pulsera-de-cereal/</loc>
-  <lastmod>2020-06-01T22:58:59+00:00</lastmod>
+  <lastmod>2020-06-06T22:58:21+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.ludoteca-digital.com/pinturas-con-carritos/</loc>
-  <lastmod>2020-06-01T22:58:59+00:00</lastmod>
+  <lastmod>2020-06-06T22:58:21+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.ludoteca-digital.com/estimulacion-sensorial/</loc>
-  <lastmod>2020-06-01T22:58:59+00:00</lastmod>
+  <lastmod>2020-06-06T22:58:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.ludoteca-digital.com/construyendo-juntos/</loc>
+  <lastmod>2020-06-06T22:58:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.ludoteca-digital.com/conociendo-mis-emociones/</loc>
+  <lastmod>2020-06-06T22:58:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.ludoteca-digital.com/conociendo-la-naturaleza/</loc>
+  <lastmod>2020-06-06T22:58:21+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.ludoteca-digital.com/plastilina-casera/</loc>
-  <lastmod>2020-06-01T22:58:59+00:00</lastmod>
+  <lastmod>2020-06-06T22:58:21+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.ludoteca-digital.com/figuras-geometricas/</loc>
-  <lastmod>2020-06-01T22:58:59+00:00</lastmod>
+  <lastmod>2020-06-06T22:58:21+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.ludoteca-digital.com/burbujas/</loc>
-  <lastmod>2020-06-01T22:58:59+00:00</lastmod>
+  <lastmod>2020-06-06T22:58:21+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.ludoteca-digital.com/duolingo/</loc>
-  <lastmod>2020-06-01T22:58:59+00:00</lastmod>
+  <loc>https://www.ludoteca-digital.com/todo-sobre-mi/</loc>
+  <lastmod>2020-06-06T22:58:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.ludoteca-digital.com/silabas/</loc>
+  <lastmod>2020-06-06T22:58:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.ludoteca-digital.com/dibujando-mi-cuento/</loc>
+  <lastmod>2020-06-06T22:58:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.ludoteca-digital.com/armando-mi-nombre/</loc>
+  <lastmod>2020-06-06T22:58:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.ludoteca-digital.com/aprendiendo-a-sumar/</loc>
+  <lastmod>2020-06-06T22:58:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.ludoteca-digital.com/aprendiendo-a-multiplicar/</loc>
+  <lastmod>2020-06-06T22:58:21+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.ludoteca-digital.com/blog/page2/</loc>
-  <lastmod>2020-06-01T22:58:59+00:00</lastmod>
+  <lastmod>2020-06-06T22:58:21+00:00</lastmod>
   <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.ludoteca-digital.com/duolingo/</loc>
+  <lastmod>2020-06-06T22:58:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.ludoteca-digital.com/blog/page3/</loc>
+  <lastmod>2020-06-06T22:58:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.ludoteca-digital.com/blog/page4/</loc>
+  <lastmod>2020-06-06T22:58:21+00:00</lastmod>
+  <priority>0.41</priority>
 </url>
 
 
