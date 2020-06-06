@@ -144,10 +144,11 @@ a:hover {
 }
 
 .blog-card img {
-  height: 250px;
+  max-height: 250px;
   margin: auto;
   display: block;
   margin-bottom: 30px;
+  width: 100%;
 }
 
 .w-100 {
