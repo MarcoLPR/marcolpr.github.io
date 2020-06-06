@@ -13,6 +13,16 @@ layout: default
             </div>
             <div itemprop="articleBody">{{content}}</div>
             <hr />
+            <div class="share-bar">
+                <span>Compartir:</span>
+                <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{page.url}}"
+                    onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;"><i
+                        class="blog-icon fab fa-facebook-square"></i></a>
+                <a href="https://twitter.com/share?text={{post.title}}&amp;url={{ site.url }}{{page.url}}"
+                    onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;"><i
+                        class="blog-icon fab fa-twitter-square"></i></a>
+            </div>
+            <hr />
             <div>
                 Fecha: <span itemprop="datePublished"> {{page.date | date_to_string}}</span> - Escrito por:
                 <span itemprop="author" itemscope itemtype="http://schema.org/Person">
@@ -61,23 +71,13 @@ layout: default
             {% endif %}
             <img class="contact-img" src="{{author.image}}" alt="{{author.name}}" />
             <h2 rel="author">{{author.name}}</h2>
-            <p class="d-none d-md-block">{{author.bio}}</p>
+            <p>{{author.bio}}</p>
             <br>
             <hr />
             <div class="share-bar">
                 <span>Contacto:</span>
                 <a href="https://m.me/LudotecaDigitalES" class="blog-icon fab fa-facebook-square"></i></a>
                 <a href="mailto:{{author.mail}}"><i class="blog-icon far fa-envelope"></i></a>
-            </div>
-            <hr />
-            <div class="share-bar">
-                <span>Compartir:</span>
-                <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{page.url}}"
-                    onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;"><i
-                        class="blog-icon fab fa-facebook-square"></i></a>
-                <a href="https://twitter.com/share?text={{post.title}}&amp;url={{ site.url }}{{page.url}}"
-                    onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;"><i
-                        class="blog-icon fab fa-twitter-square"></i></a>
             </div>
         </div>
     </div>

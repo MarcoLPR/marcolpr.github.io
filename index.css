@@ -207,6 +207,7 @@ a:hover {
   grid-column: span 1;
   transition: transform 0.2s;
   height: fit-content;
+  height: 400px;
 }
 
 .grid-card:hover {
@@ -451,6 +452,7 @@ i:hover .tooltip {
 
 .next span {
   margin-right: 10px;
+  text-align: right;
 }
 
 .color-change {
@@ -513,6 +515,7 @@ i:hover .tooltip {
   }
   .pagination-container {
     padding: 25px 10px 100px;
+    font-size: 14px;
   }
 }
 
