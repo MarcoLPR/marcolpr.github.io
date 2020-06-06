@@ -2,7 +2,7 @@
 layout: post
 title:  "Dibujando Mi Cuento"
 tags: [corporal]
-categories: [niños, actividad]
+categories: [ninos, actividad]
 author: monse
 image: /assets/posts/2020-06-05-dibujando-mi-cuento.jpg
 ---

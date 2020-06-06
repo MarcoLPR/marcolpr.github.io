@@ -2,7 +2,7 @@
 layout: post
 title:  "Aprendiendo A Multiplicar"
 tags: [logica]
-categories: [niños, actividad]
+categories: [ninos, actividad]
 author: monse
 image: /assets/posts/2020-06-05-aprendiendo-a-multiplicar.jpg
 ---
