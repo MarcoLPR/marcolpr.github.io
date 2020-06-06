@@ -229,8 +229,8 @@ a:hover {
 }
 
 .animated-title {
-  -webkit-animation: color-change 30s linear infinite alternate both;
-  animation: color-change 30s linear infinite alternate both;
+  -webkit-animation: color-change 10s linear infinite alternate both;
+  animation: color-change 10s linear infinite alternate both;
   height: 90vmin;
   left: 50%;
   position: absolute;

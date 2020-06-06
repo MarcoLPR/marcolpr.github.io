@@ -17,4 +17,4 @@ Construir con bloques de construcción es la mejor forma para divertirnos y echa
 2. Al momento de ir armándolo, preguntarle al niño que color es el lego que está utilizando. 
 
 ## Beneficios 
-Al apilar los legos el niño mantiene su concentración en lo que está haciendo así como observa las figuras o torres que hará desde diferentes perspectivas y repasa los colores o los aprende de forma sencilla.
+Al apilar los bloques de construcción el niño mantiene su concentración en lo que está haciendo así como observa las figuras o torres que hará desde diferentes perspectivas y repasa los colores o los aprende de forma sencilla.

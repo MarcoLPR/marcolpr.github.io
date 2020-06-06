@@ -7,7 +7,6 @@ author: monse
 image: /assets/posts/2020-06-01-pulsera-de-cereal.jpeg
 ---
 ![Actividad de pulseras](/assets/posts/2020-06-01-pulsera-de-cereal.jpeg)
-
 Hacer pulseras con **Fruit loops** de diferentes colores, es una forma fácil de divertirnos con algo tan rico para nuestros niños, además de desarrollar la coordinación de sus ojos con sus manos. 
 
 ## Materiales 
@@ -15,7 +14,7 @@ Hacer pulseras con **Fruit loops** de diferentes colores, es una forma fácil de
 - Listón o hilo. 
 
 ## Instrucciones 
-1. Cortar el listón o el hilo de acuerdo al tamaño de la muñeca del niño
+1. Cortar el listón o el hilo de acuerdo al tamaño de la muñeca del niño.
 2. Hacer un pequeño nudo en la orilla de alguno de los dos lados.
 3. Insertar los pequeños cereales dentro del listón hasta dejar un pequeño espacio para amarrarla.
 4. **¡Listo!** tenemos una pulsera llena de sabor. 
