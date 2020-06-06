@@ -302,6 +302,10 @@ i:hover .tooltip {
   color: #fff !important;
 }
 
+.navbar-nav .dropdown-menu {
+  border: none;
+}
+
 .navbar-nav .nav-link {
   color: #fff !important;
 }
@@ -394,7 +398,7 @@ i:hover .tooltip {
 }
 
 .nav-icon {
-  color: #333;
+  color: #fff;
 }
 
 .blog-helper h2 {
