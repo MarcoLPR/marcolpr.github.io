@@ -144,8 +144,9 @@ a:hover {
 }
 
 .blog-card img {
-  width: 100%;
-  margin-bottom: 15px;
+  height: 250px;
+  margin: auto;
+  display: block;
 }
 
 .w-100 {
