@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: ludoteca-digital.com
-Token: 99690c13d6a7864fde6aded4898def95ebbebc778cf282d6f6783abb1ccf0fcd

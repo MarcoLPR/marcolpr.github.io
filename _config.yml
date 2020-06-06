@@ -9,8 +9,6 @@ permalink: /:title/
 
 plugins: [jekyll-paginate]
 
-include: [".well-known"]
-
 authors:
   monse:
     name: Monserrat Delgadillo

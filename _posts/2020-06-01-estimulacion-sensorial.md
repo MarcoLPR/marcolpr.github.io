@@ -7,7 +7,6 @@ author: monse
 image: /assets/posts/2020-06-01-cereales.jpeg
 ---
 ![Actividad con cereales](/assets/posts/2020-06-01-cereales.jpeg)
-
 Trabajar los sentidos de una forma divertida y sencilla, con materiales y recursos fáciles de encontrar, los ayuda a **sentir, probar, ver, imaginar, crear y oler.** 
 
 ## Materiales 

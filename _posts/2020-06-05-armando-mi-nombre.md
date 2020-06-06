@@ -4,10 +4,9 @@ title:  "Armando Mi Nombre"
 tags: [linguistica]
 categories: [ninos, actividad]
 author: monse
-image: /assets/posts/2020-06-05-armando-mi-nombre.jpg
+image: /assets/posts/2020-06-05-armando-mi-nombre.jpeg
 ---
-![Actividad de mi nombre](/assets/posts/2020-06-05-armando-mi-nombre.jpg)
-
+![Actividad de mi nombre](/assets/posts/2020-06-05-armando-mi-nombre.jpeg)
 ¡Para nuestros pequeños que están aprendiendo a escribir mejor, este juego les resultará divertido y fácil!
 
 ## Materiales 

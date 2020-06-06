@@ -4,10 +4,9 @@ title:  "Construyendo Juntos"
 tags: [visual-espacial]
 categories: [infantes, actividad]
 author: monse
-image: /assets/posts/2020-06-05-construyendo-juntos.jpg
+image: /assets/posts/2020-06-05-construyendo-juntos.jpeg
 ---
-![Actividad de bloques de construcción](/assets/posts/2020-06-05-construyendo-juntos.jpg)
-
+![Actividad de bloques de construcción](/assets/posts/2020-06-05-construyendo-juntos.jpeg)
 Construir con bloques de construcción es la mejor forma para divertirnos y echar a volar la **imaginación** de los pequeños. 
 
 ## Materiales 

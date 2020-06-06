@@ -1,13 +1,12 @@
 ﻿---
 layout: post
 title:  "Rompecabezas"
-tags: [visual-espacial]
+tags: [espacial]
 categories: [bebes, actividad]
 author: monse
-image: /assets/posts/2020-06-05-rompecabezas.jpg
+image: /assets/posts/2020-06-05-rompecabezas.jpeg
 ---
-![Actividad de rompecabezas](/assets/posts/2020-06-05-rompecabezas.jpg)
-
+![Actividad de rompecabezas](/assets/posts/2020-06-05-rompecabezas.jpeg)
 Crear rompecabezas con los pequeños es tan sencillo que nos da mucha **más diversión.**
 
 ## Materiales 

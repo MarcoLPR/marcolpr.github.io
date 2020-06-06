@@ -7,7 +7,6 @@ author: monse
 image: /assets/posts/2020-06-01-figuras-geometricas.jpeg
 ---
 ![Actividad de geometría](/assets/posts/2020-06-01-figuras-geometricas.jpeg)
-
 Desarrollar sus capacidades de razonamiento, análisis, agrupación e identificación, es tan **sencillo y divertido** para hacerlo juntos. 
 
 ## Materiales 

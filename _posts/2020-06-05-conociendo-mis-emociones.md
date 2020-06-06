@@ -4,10 +4,9 @@ title:  "Conociendo Mis Emociones"
 tags: [intrapersonal]
 categories: [infantes, actividad]
 author: monse
-image: /assets/posts/2020-06-05-conociendo-mis-emociones.jpg
+image: /assets/posts/2020-06-05-conociendo-mis-emociones.jpeg
 ---
-![Actividad de emociones](/assets/posts/2020-06-05-conociendo-mis-emociones.jpg)
-
+![Actividad de emociones](/assets/posts/2020-06-05-conociendo-mis-emociones.jpeg)
 Conocer como se sienten nuestros pequeños es fundamental para que su desarrollo sea mejor día con día. 
 
 ## Materiales 
