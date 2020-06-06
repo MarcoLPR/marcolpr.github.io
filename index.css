@@ -149,6 +149,7 @@ a:hover {
   display: block;
   margin-bottom: 30px;
   width: 100%;
+  object-fit: contain;
 }
 
 .w-100 {
