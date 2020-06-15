@@ -4,9 +4,9 @@ title:  "Creando una historia"
 tags: [interpersonal]
 categories: [infantes, actividad]
 author: monse
-image: /assets/posts/2020-06-15-titeres.jpeg
+image: /assets/posts/2020-06-16-titeres.jpeg
 ---
-![Actividad del titeres](/assets/posts/2020-06-15-titeres.jpeg)<br/>
+![Actividad del titeres](/assets/posts/2020-06-16-titeres.jpeg)<br/>
 A nuestros pequeños les encanta platicar con todos, por eso es importante trabajar ese vínculo y que se sientan seguros con los demás, además de **divertirnos con títeres hechos con calcetines.** 
 
 ## Materiales 

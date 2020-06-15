@@ -4,9 +4,9 @@ title:  "Mis sentimientos día con día"
 tags: [intrapersonal]
 categories: [ninos, actividad]
 author: monse
-image: /assets/posts/2020-06-15-mis-sentimientos-dia-con-dia.jpeg
+image: /assets/posts/2020-06-16-mis-sentimientos-dia-con-dia.jpeg
 ---
-![Actividad intrapersonal](/assets/posts/2020-06-15-mis-sentimientos-dia-con-dia.jpeg)<br/>
+![Actividad intrapersonal](/assets/posts/2020-06-16-mis-sentimientos-dia-con-dia.jpeg)<br/>
 Nuestros niños tienen diferentes emociones cada día y nosotros debemos conocerlas para entenderlos y platicar con ellos, su salud mental y emocional es lo **más importante.** 
 
 ## Materiales 
