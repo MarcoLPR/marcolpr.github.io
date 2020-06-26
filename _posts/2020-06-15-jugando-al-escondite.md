@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title:  "Jugando al escondite"
-tags: [corporal]
+tags: [espacial]
 categories: [bebes, actividad]
 author: monse
 image: /assets/posts/2020-06-15-jugando-al-escondite.jpeg
