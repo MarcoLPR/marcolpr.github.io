@@ -12,36 +12,36 @@ layout: default
                 <meta itemprop="name" content="Ludoteca Digital">
             </div>
             <div itemprop="articleBody">{{content}}</div>
+            {% if page.categories contains 'actividad' %}
             <hr />
             <div class="blog-bar">
-                {% if post.categories contains 'actividad' %}
                 <span>Desarrolla:</span>
-                {% if post.tags contains 'linguistica' %}
+                {% if page.tags contains 'linguistica' %}
                 <i class="blog-icon fas fa-comment-dots" title="Inteligencia Lingüística"></i>
                 {% endif %}
-                {% if post.tags contains 'logica' %}
+                {% if page.tags contains 'logica' %}
                 <i class="blog-icon fas fa-cogs" title="Inteligencia Lógico-Matemática"></i>
                 {% endif %}
-                {% if post.tags contains 'espacial' %}
+                {% if page.tags contains 'espacial' %}
                 <i class="blog-icon fas fa-cubes" title="Inteligencia Visual-Espacial"></i>
                 {% endif %}
-                {% if post.tags contains 'musical' %}
+                {% if page.tags contains 'musical' %}
                 <i class="blog-icon fas fa-music" title="Inteligencia Musical"></i>
                 {% endif %}
-                {% if post.tags contains 'corporal' %}
+                {% if page.tags contains 'corporal' %}
                 <i class="blog-icon fas fa-child" title="Inteligencia Corporal"></i>
                 {% endif %}
-                {% if post.tags contains 'intrapersonal' %}
+                {% if page.tags contains 'intrapersonal' %}
                 <i class="blog-icon fas fa-grin" title="Inteligencia Intrapersonal"></i>
                 {% endif %}
-                {% if post.tags contains 'interpersonal' %}
+                {% if page.tags contains 'interpersonal' %}
                 <i class="blog-icon fas fa-handshake" title="Inteligencia Interpersonal"></i>
                 {% endif %}
-                {% if post.tags contains 'naturalista' %}
+                {% if page.tags contains 'naturalista' %}
                 <i class="blog-icon fas fa-leaf" title="Inteligencia Naturalista"></i>
                 {% endif %}
-                {% endif %}
             </div>
+            {% endif %}
             <hr />
             <div class="share-bar">
                 <span>Compartir:</span>
