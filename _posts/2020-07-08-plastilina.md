@@ -5,6 +5,7 @@ tags: [espacial]
 categories: [bebes, actividad]
 author: monse
 image: /assets/posts/2020-07-08-plastilina.jpeg
+hidden: true
 ---
 ![Actividad de plastilina](/assets/posts/2020-07-08-plastilina.jpeg)<br/>
 La plastilina es un excelente recurso para trabajar la inteligencia espacial de nuestros pequeños. 
