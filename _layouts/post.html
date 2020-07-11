@@ -11,6 +11,8 @@ layout: default
             <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
                 <meta itemprop="name" content="Ludoteca Digital">
             </div>
+            <div itemprop="articleBody">{{content}}</div>
+            <br/>
             {% if page.categories contains 'actividad' %}
             {% if page.categories contains 'bebes' %}
             <strong>Actividad para bebés de 1 a 2 años.</strong>
@@ -22,7 +24,6 @@ layout: default
             <strong>Actividad para niños de 6 a 8 años.</strong>
             {% endif %}
             {% endif %}
-            <div itemprop="articleBody">{{content}}</div>
             {% if page.categories contains 'actividad' %}
             <hr />
             <div class="share-bar">
