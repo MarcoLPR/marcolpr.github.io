@@ -5,6 +5,7 @@ tags: [linguistica]
 categories: [infantes, actividad]
 author: monse
 image: /assets/posts/2020-06-23-caligrafia.jpeg
+hidden: true
 ---
 ![Actividad caligrafia](/assets/posts/2020-06-23-caligrafia.jpeg)<br/>
 A los más pequeñitos les encanta escribir y crear, con esta actividad aprenderán **mucho más.** 

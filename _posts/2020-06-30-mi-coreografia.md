@@ -5,6 +5,7 @@ tags: [corporal]
 categories: [niños, actividad]
 author: monse
 image: /assets/posts/2020-06-30-mi-coreografia.jpeg
+hidden: true
 ---
 ![Actividad corporal](/assets/posts/2020-06-30-mi-coreografia.jpeg)<br/>
 Es importante que nuestros pequeños estén en constante movimiento, más divertido aún con ejercicios y bailes que ellos mismos se pongan. 

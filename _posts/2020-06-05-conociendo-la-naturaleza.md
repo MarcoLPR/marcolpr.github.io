@@ -1,10 +1,11 @@
 ﻿---
 layout: post
-title:  "Conociendo La Naturaleza"
+title:  "Conociendo la naturaleza"
 tags: [naturalista]
 categories: [infantes, actividad]
 author: monse
 image: /assets/posts/2020-06-05-conociendo-la-naturaleza.jpeg
+hidden: true
 ---
 ![Actividad de naturaleza](/assets/posts/2020-06-05-conociendo-la-naturaleza.jpeg)<br/>
 Enseñar a nuestros pequeños a cuidar y preservar el ambiente es tan divertido para aprender juntos. 

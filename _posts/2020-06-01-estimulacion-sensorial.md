@@ -1,10 +1,11 @@
 ﻿---
 layout: post
-title:  "Estimulación Sensorial"
+title:  "Estimulación sensorial"
 tags: [corporal]
 categories: [bebes, actividad]
 author: monse
 image: /assets/posts/2020-06-01-cereales.jpeg
+hidden: true
 ---
 ![Actividad con cereales](/assets/posts/2020-06-01-cereales.jpeg)<br/>
 Trabajar los sentidos de una forma divertida y sencilla, con materiales y recursos fáciles de encontrar, los ayuda a **sentir, probar, ver, imaginar, crear y oler.** 

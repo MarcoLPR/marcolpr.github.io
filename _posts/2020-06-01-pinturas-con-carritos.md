@@ -1,10 +1,11 @@
 ﻿---
 layout: post
-title:  "Expresión Artística"
+title:  "Expresión artística"
 tags: [corporal]
 categories: [bebes, actividad]
 author: monse
 image: /assets/posts/2020-06-01-pinturas-con-carritos.jpeg
+hidden: true
 ---
 ![Actividad de colores](/assets/posts/2020-06-01-pinturas-con-carritos.jpeg)<br/>
 Hacer una carrera de colores es la forma perfecta para desarrollar su imaginación, descubrimiento y experimentación. 

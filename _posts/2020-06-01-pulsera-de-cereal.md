@@ -1,10 +1,11 @@
 ﻿---
 layout: post
-title:  "Pulsera de Cereal"
+title:  "Pulsera de cereal"
 tags: [corporal]
 categories: [bebes, actividad]
 author: monse
 image: /assets/posts/2020-06-01-pulsera-de-cereal.jpeg
+hidden: true
 ---
 ![Actividad de pulseras](/assets/posts/2020-06-01-pulsera-de-cereal.jpeg)<br/>
 Hacer pulseras con **Fruit loops** de diferentes colores, es una forma fácil de divertirnos con algo tan rico para nuestros niños, además de desarrollar la coordinación de sus ojos con sus manos. 

@@ -1,10 +1,11 @@
 ﻿---
 layout: post
-title:  "Dibujando Mi Cuento"
+title:  "Dibujando mi cuento"
 tags: [interpersonal]
 categories: [ninos, actividad]
 author: monse
 image: /assets/posts/2020-06-05-dibujando-mi-cuento.jpeg
+hidden: true
 ---
 ![Actividad de dibujo](/assets/posts/2020-06-05-dibujando-mi-cuento.jpeg)<br/>
 Escuchar un cuento siempre será emocionante y divertido, sobre todo si lo tenemos que imaginar y dibujar. 

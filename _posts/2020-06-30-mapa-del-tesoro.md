@@ -5,6 +5,7 @@ tags: [espacial]
 categories: [ninos, actividad]
 author: monse
 image: /assets/posts/2020-06-30-mapa-del-tesoro.jpeg
+hidden: true
 ---
 ![Actividad de mapa](/assets/posts/2020-06-30-mapa-del-tesoro.jpeg)<br/>
 Es importante que nuestros pequeños sepan ubicarse y saber dónde están, con ayuda de la imaginación y la memoria.

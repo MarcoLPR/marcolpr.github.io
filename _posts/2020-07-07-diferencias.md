@@ -5,6 +5,7 @@ tags: [logica]
 categories: [ninos, actividad]
 author: monse
 image: /assets/posts/2020-07-07-diferencias.jpeg
+hidden: true
 ---
 ![Actividad de diferencias](/assets/posts/2020-07-07-diferencias.jpeg)<br/>
 Trabajar con la mente de nuestros pequeños los ayuda a pensar, observar, categorizar, acomodar, diferenciar, entre muchas otras cosas más. 

@@ -1,10 +1,11 @@
 ﻿---
 layout: post
-title:  "Figuras Geométricas"
+title:  "Figuras geométricas"
 tags: [logica]
 categories: [infantes, actividad]
 author: monse
 image: /assets/posts/2020-06-01-figuras-geometricas.jpeg
+hidden: true
 ---
 ![Actividad de geometría](/assets/posts/2020-06-01-figuras-geometricas.jpeg)<br/>
 Desarrollar sus capacidades de razonamiento, análisis, agrupación e identificación, es tan **sencillo y divertido** para hacerlo juntos. 

@@ -5,6 +5,7 @@ tags: [espacial]
 categories: [bebes, actividad]
 author: monse
 image: /assets/posts/2020-06-15-jugando-al-escondite.jpeg
+hidden: true
 ---
 ![Actividad del escondite](/assets/posts/2020-06-15-jugando-al-escondite.jpeg)<br/>
 Para nuestros bebés es importante crecer jugando, corriendo, saltando, conociendo, etc. por ello, jugaremos al escondite con nuestros pequeños y nos divertiremos **juntos.**

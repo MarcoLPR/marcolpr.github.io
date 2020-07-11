@@ -1,10 +1,11 @@
 ﻿---
 layout: post
-title:  "Aprendiendo A Multiplicar"
+title:  "Aprendiendo a multiplicar"
 tags: [logica]
 categories: [ninos, actividad]
 author: monse
 image: /assets/posts/2020-06-05-aprendiendo-a-multiplicar.jpeg
+hidden: true
 ---
 ![Actividad del estacionamiento](/assets/posts/2020-06-05-aprendiendo-a-multiplicar.jpeg)<br/>
 Con este juego para nuestros pequeños, las tablas de multiplicar serán más divertidas y fáciles de **aprender.** 

@@ -5,6 +5,7 @@ tags: [interpersonal]
 categories: [infantes, actividad]
 author: monse
 image: /assets/posts/2020-06-16-titeres.jpeg
+hidden: true
 ---
 ![Actividad del titeres](/assets/posts/2020-06-16-titeres.jpeg)<br/>
 A nuestros pequeños les encanta platicar con todos, por eso es importante trabajar ese vínculo y que se sientan seguros con los demás, además de **divertirnos con títeres hechos con calcetines.** 

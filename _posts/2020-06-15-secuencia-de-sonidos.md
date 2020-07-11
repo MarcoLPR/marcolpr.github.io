@@ -5,6 +5,7 @@ tags: [musical]
 categories: [ninos, actividad]
 author: monse
 image: /assets/posts/2020-06-15-secuencia-de-sonidos.jpeg
+hidden: true
 ---
 ![Actividad de sonidos](/assets/posts/2020-06-15-secuencia-de-sonidos.jpeg)<br/>
 A nuestros pequeños les encanta escuchar música, sobre todo si la música la creamos en familia y jugando. 
