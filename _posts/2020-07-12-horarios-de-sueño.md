@@ -5,7 +5,7 @@ tags: [linguistica]
 categories: [articulo]
 author: monse
 ---
-### En estos días, la alarma de la escuela no está sonando para la mayoría de nuestros hijos, y depende de los padres asegurarse de que los niños y adolescentes duerman lo que necesitan durante estos momentos estresantes e inciertos.
+**En estos días, la alarma de la escuela no está sonando para la mayoría de nuestros hijos, y depende de los padres asegurarse de que los niños y adolescentes duerman lo que necesitan durante estos momentos estresantes e inciertos.**
 
 Como padres, es importante reconocer las necesidades específicas de sueño de su hijo en función de su etapa de desarrollo. Según el [consenso científico](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5078711/), los niños pequeños necesitan de 11 a 14 horas de sueño, preescolares, alrededor de 10 a 13 horas, niños en edad escolar (de 6 a 12 años), alrededor de 9 a 12 horas, y adolescentes, de 8 a 10 horas. Los adultos necesitan alrededor de 7-9 horas.
 

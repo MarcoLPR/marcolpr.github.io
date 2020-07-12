@@ -77,9 +77,9 @@ a:hover {
 .blog-title {
   text-align: center;
   color: #fff;
-  font-size: 10vmin;
+  font-size: 7vmin;
   margin: auto;
-  padding-bottom: 10px;
+  padding: 10px;
 }
 
 .baby-title {
