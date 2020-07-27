@@ -2,7 +2,7 @@
 layout: post
 title:  "Dibujo en equipo"
 tags: [interpersonal]
-categories: [bebes, actividad]
+categories: [ninos, actividad]
 author: monse
 image: /assets/posts/2020-07-20-equipos.jpeg
 hidden: true
