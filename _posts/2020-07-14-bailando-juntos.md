@@ -11,7 +11,7 @@ hidden: true
 Nuestros pequeños son expertos bailando y haciendo nuevos pasos y a la vez los ayuda en su desarrollo corporal. 
 
 ## Materiales 
-- Celular, tablet, etc. 
+- Música.
 
 ## Instrucciones
 1. Poner canciones que tengan movimientos de todo el cuerpo.

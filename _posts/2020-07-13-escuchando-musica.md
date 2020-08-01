@@ -11,7 +11,7 @@ hidden: true
 Escuchar música en cualquier momento del día es bueno, sobre todo si a nuestros pequeños le encanta. 
 
 ## Materiales 
-- Celular, tablet, etc.
+- Música.
 
 ## Instrucciones 
 1. Poner música al pequeño mientras juega.

@@ -11,7 +11,7 @@ hidden: true
 La música hace felices a nuestros pequeños, más cuando es su favorita.
 
 ## Materiales 
-- Celular, tablet, etc.
+- Música.
 
 ## Instrucciones 
 1. Poner fragmentos de canciones con las que empiezan las películas favoritas del pequeño.
