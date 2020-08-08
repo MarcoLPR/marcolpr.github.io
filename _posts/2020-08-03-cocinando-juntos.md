@@ -4,7 +4,7 @@ title:  "Cocinando juntos"
 tags: [interpersonal]
 categories: [ninos, actividad]
 author: monse
-image: /assets/posts/2020-07-28-reconociendome.jpeg
+image: /assets/posts/2020-08-03-cocina.jpeg
 hidden: true
 ---
 ![Actividad de cocina](/assets/posts/2020-08-03-cocina.jpeg)<br/>
