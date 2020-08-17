@@ -71,6 +71,24 @@ a:hover {
   background-image: url('/assets/backgrounds/heart.png');
 }
 
+.baby-button,
+.child-button,
+.toddler-button {
+  color: #fff;
+  padding: 10px;
+  width: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 5%;
+}
+
+.baby-button:hover,
+.child-button:hover,
+.toddler-button:hover {
+  color: #fff;
+}
+
 .baby-title,
 .child-title,
 .toddler-title,
@@ -92,6 +110,14 @@ a:hover {
 
 .baby-icon:hover {
   color: #d07cd0;
+}
+
+.baby-button {
+  background: #dda0dd;
+}
+
+.baby-button:hover {
+  background: #d07cd0;
 }
 
 .blog-background {
@@ -118,6 +144,14 @@ a:hover {
   color: #3baff7;
 }
 
+.child-button {
+  background: #87cefa;
+}
+
+.child-button:hover {
+  background: #3baff7;
+}
+
 .toddler-background {
   background-image: url('/assets/backgrounds/sun.png');
 }
@@ -133,6 +167,15 @@ a:hover {
 .toddler-icon:hover {
   color: #cc8500;
 }
+
+.toddler-button {
+  background: #ffa500;
+}
+
+.toddler-button:hover {
+  background: #cc8500;
+}
+
 
 .white-text {
   color: #fff;
@@ -161,6 +204,12 @@ a:hover {
   height: 200px;
   background-size: cover;
   background-position-x: center;
+}
+
+.method-list {
+  flex-direction: row;
+  display: flex;
+  justify-content: space-around;
 }
 
 .grid {
@@ -243,6 +292,9 @@ a:hover {
   transform: translate(-50%, -50%);
   width: 90vmin;
   background: #fff;
+  -webkit-box-shadow: 0px 0px 5px 1px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 0px 0px 5px 1px rgba(0, 0, 0, 0.75);
+  box-shadow: 0px 0px 5px 1px rgba(0, 0, 0, 0.75);
 }
 .animated-title > div {
   height: 50%;
@@ -251,9 +303,12 @@ a:hover {
   width: 100%;
 }
 .animated-title > div div {
-  font-size: 10vmin;
+  font-size: 10vmin !important;
   padding: 2vmin 0;
   position: absolute;
+}
+.animated-title > div h1 {
+  font-size: 10vmin !important;
 }
 .animated-title > div div span {
   display: block;
@@ -270,10 +325,10 @@ a:hover {
   bottom: 0;
   transform: translate(0, 100%);
 }
-.animated-title > div.text-top div span {
+.animated-title > div.text-top div h1 {
   padding-left: 20px;
 }
-.animated-title > div.text-bottom div span {
+.animated-title > div.text-bottom div h2 {
   padding-left: 20px;
 }
 .animated-title > div.text-bottom {
@@ -480,8 +535,17 @@ i:hover .tooltip {
   font-size: 8vmin;
 }
 
+.method-info {
+  min-height: 250px;
+}
+
+#method i {
+  font-size: 25px;
+  animation: color-change 10s linear infinite alternate both;
+}
+
 /* Mobile */
-@media (max-width: 767px) {
+@media (max-width: 768px) {
   .grid-card {
     grid-column: span 3;
   }
@@ -490,6 +554,9 @@ i:hover .tooltip {
     font-size: 4vmin;
   }
   .contact-card {
+    flex-direction: column;
+  }
+  .method-list {
     flex-direction: column;
   }
   #about .animated-title {
