@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title:  "Contando con Fruit Loops."
+title:  "Contando con Fruit Loops"
 tags: [logica]
 categories: [bebes, actividad]
 author: monse
