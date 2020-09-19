@@ -282,9 +282,6 @@ a:hover {
   transform: translate(-50%, -50%);
   width: 90vmin;
   background: #fff;
-  -webkit-box-shadow: 0px 0px 5px 1px rgba(0, 0, 0, 0.75);
-  -moz-box-shadow: 0px 0px 5px 1px rgba(0, 0, 0, 0.75);
-  box-shadow: 0px 0px 5px 1px rgba(0, 0, 0, 0.75);
 }
 .animated-title > div {
   height: 50%;
@@ -428,9 +425,6 @@ i:hover .tooltip {
   justify-content: space-evenly;
   display: flex;
   flex-direction: column;
-  -webkit-box-shadow: 0px 0px 5px 1px rgba(0, 0, 0, 0.75);
-  -moz-box-shadow: 0px 0px 5px 1px rgba(0, 0, 0, 0.75);
-  box-shadow: 0px 0px 5px 1px rgba(0, 0, 0, 0.75);
   padding: 30px;
   margin: 30px;
 }
