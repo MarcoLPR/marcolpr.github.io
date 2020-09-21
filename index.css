@@ -85,8 +85,9 @@ a:hover {
   border: none;
 }
 
-.page-button:hover {
+.page-button:hover, .page-button:focus {
   color: #fff;
+  border: none;
 }
 
 .blog-card img {
