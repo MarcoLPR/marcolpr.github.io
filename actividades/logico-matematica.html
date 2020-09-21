@@ -1,13 +1,13 @@
 ---
 layout: default
-title: "Actividades para Infantes"
+title: "Actividades Para Inteligencia Lógico-Matemática"
 ---
-<h1 class="page-title">Actividades Para Infantes</h1>
+<h1 class="page-title">Actividades Para Inteligencia Lógico-Matemática</h1>
 <div class="page-background">
     <section class="grid container" itemscope itemtype="http://schema.org/Blog">
         {% for post in site.posts %}
         {% if post.categories contains 'actividad' %}
-        {% if post.categories contains 'infantes' %}
+        {% if post.tags contains 'logica' %}
         <article class="grid-card" itemprop="blogPosts" itemscope itemtype="http://schema.org/BlogPosting">
             <meta itemprop="name" content="{{post.title}}" />
             <meta itemprop="image" content="{{post.image}}" />
@@ -21,30 +21,7 @@ title: "Actividades para Infantes"
                 <div class="action-bar">
                     <div class="blog-bar">
                         <span>Desarrolla:</span>
-                        {% if post.tags contains 'linguistica' %}
-                        <i class="page-icon fas fa-comment-dots" title="Inteligencia Lingüística"></i>
-                        {% endif %}
-                        {% if post.tags contains 'logica' %}
                         <i class="page-icon fas fa-cogs" title="Inteligencia Lógico-Matemática"></i>
-                        {% endif %}
-                        {% if post.tags contains 'espacial' %}
-                        <i class="page-icon fas fa-cubes" title="Inteligencia Visual-Espacial"></i>
-                        {% endif %}
-                        {% if post.tags contains 'musical' %}
-                        <i class="page-icon fas fa-music" title="Inteligencia Musical"></i>
-                        {% endif %}
-                        {% if post.tags contains 'corporal' %}
-                        <i class="page-icon fas fa-child" title="Inteligencia Corporal"></i>
-                        {% endif %}
-                        {% if post.tags contains 'intrapersonal' %}
-                        <i class="page-icon fas fa-grin" title="Inteligencia Intrapersonal"></i>
-                        {% endif %}
-                        {% if post.tags contains 'interpersonal' %}
-                        <i class="page-icon fas fa-handshake" title="Inteligencia Interpersonal"></i>
-                        {% endif %}
-                        {% if post.tags contains 'naturalista' %}
-                        <i class="page-icon fas fa-leaf" title="Inteligencia Naturalista"></i>
-                        {% endif %}
                     </div>
                     <div class="share-bar">
                         <span>Compartir:</span>
