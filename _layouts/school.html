@@ -1,0 +1,83 @@
+---
+layout: default
+---
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous"
+    src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v6.0"></script>
+<h2 class="page-title">{{page.title}}</h2>
+<div class="page-background">
+    <div class="col-12 col-md-8 pl-md-5 p-0">
+        <article class="blog-card" itemscope itemtype="http://schema.org/BlogPosting">
+            <meta itemprop="name" content="{{page.title}}" />
+            <meta itemprop="image" content="{{page.image}}" />
+            <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
+                <meta itemprop="name" content="Ludoteca Digital">
+            </div>
+            <div itemprop="articleBody">
+                <h2>Ubicación</h2>
+                <div class="maps">
+                    <iframe src="{{page.maps}}" width="600" height="450" frameborder="0" style="border:0;"
+                        allowfullscreen="" aria-hidden="false" tabindex="0">
+                    </iframe>
+                </div>
+            </div>
+            <br />
+            <hr />
+            <div class="share-bar">
+                <span>Contactar escuela:</span>
+                <a href="{{page.facebook}}" target="_blank" rel='noopener'><i
+                        class="page-icon fab fa-facebook-square"></i></a>
+            </div>
+            <hr />
+            <div>
+                Fecha de Edición: <span itemprop="datePublished"> {{page.date | date_to_string}}</span>
+            </div>
+            <hr />
+            <div id="disqus_thread"></div>
+            <script>
+                (function () {
+                    var d = document, s = d.createElement('script');
+                    s.src = 'https://ludoteca-digital.disqus.com/embed.js';
+                    s.setAttribute('data-timestamp', +new Date());
+                    (d.head || d.body).appendChild(s);
+                })();
+            </script>
+            <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments
+                    powered by
+                    Disqus.</a></noscript>
+            <hr />
+            <p>Contin&uacute;a leyendo con nosotros. Podr&iacute;an interesarte los siguientes
+                art&iacute;culos:</p>
+            <div class="action-bar">
+                {% if page.previous %}
+                <div class="col-4 px-0">
+                    <h2><a class="big-link" href="{{page.previous.url}}">{{page.previous.title}}</a></h2>
+                </div>
+                {% endif %} {% if page.next %}
+                <div class="col-4 px-0">
+                    <h2><a class="big-link" href="{{page.next.url}}">{{page.next.title}}</a></h2>
+                </div>
+                {% endif %}
+            </div>
+        </article>
+    </div>
+    <div class="col-12 col-md-4 pr-md-5 p-0">
+        <div class="blog-helper">
+            <a class="m-auto" href="{{page.facebook}}" target="_blank" rel='noopener'><img class="school-img"
+                    src="{{page.image}}" alt="{{page.title}}" /></a>
+            <h4>{{page.title}}</h4>
+            <p>La información en esta página es meramente informativa. Ludoteca Digital no pertenece o representa de
+                ninguna manera a la guardería | kinder.
+                Si detecta información errónea, le invitamos a que se comunique con <a
+                    href="mailto:ludoteca.digital.es@gmail.com">nosotros</a>.</p>
+            <br>
+            <hr />
+            <div class="fb-page" data-href="https://www.facebook.com/ludotecadigitales/" data-tabs="timeline"
+                data-width="280" data-height="320" data-small-header="false" data-adapt-container-width="true"
+                data-hide-cover="false" data-show-facepile="true">
+                <blockquote cite="https://www.facebook.com/ludotecadigitales/" class="fb-xfbml-parse-ignore"><a
+                        href="https://www.facebook.com/ludotecadigitales/">Ludoteca Digital</a></blockquote>
+            </div>
+        </div>
+    </div>
+</div>

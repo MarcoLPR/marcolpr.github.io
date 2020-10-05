@@ -1,14 +1,4 @@
-span,
-p,
-strong,
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-li,
-div {
+* {
   font-family: 'Poppins', sans-serif;
 }
 
@@ -290,6 +280,14 @@ i:hover .tooltip {
   width: 150px;
   height: 150px;
   border-radius: 50%;
+}
+.school-img {
+  width: 150px;
+  height: 150px;
+}
+.maps {
+  margin: auto;
+  max-width: 600px;
 }
 .action-bar {
   display: flex;
