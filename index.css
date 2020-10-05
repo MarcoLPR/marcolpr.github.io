@@ -285,9 +285,18 @@ i:hover .tooltip {
   width: 150px;
   height: 150px;
 }
-.maps {
-  margin: auto;
-  max-width: 600px;
+.maps{
+  overflow:hidden;
+  padding-bottom:56.25%;
+  position:relative;
+  height:0;
+}
+.maps iframe{
+  left:0;
+  top:0;
+  height:100%;
+  width:100%;
+  position:absolute;
 }
 .action-bar {
   display: flex;
