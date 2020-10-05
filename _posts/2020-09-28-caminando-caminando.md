@@ -14,7 +14,7 @@ Animar a nuestros pequeños a que bailen y canten, siempre será una actividad d
 -  Se utilizará la app Youtube. 
 
 ## Instrucciones 
-1. Se pondrá la canción caminando, caminando de Super Simple Songs, puede ser en español o en inglés. 
+1. Se pondrá la canción ["Caminando, Caminando"](https://www.youtube.com/watch?v=r5RwwhRDr6s) de Super Simple Songs, puede ser en español o en inglés. 
 2. El pequeño tendrá que hacer lo que dicen en la canción, si es posible, hacerlo junto con el. 
 
 ## Beneficios 
