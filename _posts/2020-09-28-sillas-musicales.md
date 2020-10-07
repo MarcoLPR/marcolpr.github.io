@@ -2,7 +2,7 @@
 layout: post
 tittle: "Sillas musicales"
 tags: [musical]
-categories: [infantes, actividad] 
+categories: [ninos, actividad] 
 author: monse
 image: /assets/posts/2020-09-28-sillas-musicales.jpeg
 hidden: true

@@ -2,7 +2,7 @@
 layout: post
 tittle: "Caminando, caminando"
 tags: [musical]
-categories: [ninos, actividad] 
+categories: [infantes, actividad] 
 author: monse
 image: /assets/posts/2020-09-28-caminando-caminando.jpeg
 hidden: true 
