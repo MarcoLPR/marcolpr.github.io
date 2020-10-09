@@ -2,7 +2,7 @@
 layout: post
 tittle: "La hora del té"
 tags: [interpersonal]
-categories: [Infantes, actividad]
+categories: [infantes, actividad]
 author: monse
 image: /assets/posts/2020-10-07-hora-del-te.jpeg
 hidden: true
