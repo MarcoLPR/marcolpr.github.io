@@ -4,7 +4,7 @@ tittle: "Juego de cartas"
 tags: [interpersonal]
 categories: [ninos, actividad]
 author: monse
-image: /assets/posts/2020-10-07-juego-de-cartas.jpeg
+image: /assets/posts/2020-10-07-cartas.jpeg
 hidden: true
 ---
 ![Actividad de cartas](/assets/posts/2020-10-07-cartas.jpeg)<br/> 
