@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title:  "Números de Fruit Loops"
+title:  "Números de fruit loops"
 tags: [logica]
 categories: [infantes, actividad]
 author: monse
