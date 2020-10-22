@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title:  "Creando una historia"
+title:  "Historia con calcetines"
 tags: [interpersonal]
 categories: [infantes, actividad]
 author: monse
