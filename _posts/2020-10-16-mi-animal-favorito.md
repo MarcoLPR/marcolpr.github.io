@@ -1,6 +1,6 @@
 ---
 layout: post
-tittle: "Mi animal favorito"
+title: "Mi animal favorito"
 tags: [naturalista]
 categories: [infantes, actividad]
 author: monse

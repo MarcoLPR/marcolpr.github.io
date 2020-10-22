@@ -1,6 +1,6 @@
 ---
 layout: post
-tittle: "Cantando las emociones"
+title: "Cantando las emociones"
 tags: [intrapersonal]
 categories: [infantes, actividad] 
 author: monse

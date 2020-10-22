@@ -1,6 +1,6 @@
 ---
 layout: post
-tittle: "Dibujo de arroz"
+title: "Dibujo de arroz"
 tags: [corporal]
 categories: [infantes, actividad] 
 author: monse

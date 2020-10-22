@@ -1,6 +1,6 @@
 ---
 layout: post
-tittle: "Animales del agua"
+title: "Animales del agua"
 tags: [naturalista]
 categories: [bebes, actividad]
 author: monse

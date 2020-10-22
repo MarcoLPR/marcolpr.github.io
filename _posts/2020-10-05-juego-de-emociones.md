@@ -1,6 +1,6 @@
 ---
 layout: post
-tittle: "Juego de emociones"
+title: "Juego de emociones"
 tags: [intrapersonal]
 categories: [ninos, actividad] 
 author: monse

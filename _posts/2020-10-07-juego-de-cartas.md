@@ -1,6 +1,6 @@
 ---
 layout: post
-tittle: "Juego de cartas"
+title: "Juego de cartas"
 tags: [interpersonal]
 categories: [ninos, actividad]
 author: monse

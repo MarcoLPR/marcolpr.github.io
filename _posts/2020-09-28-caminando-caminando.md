@@ -1,6 +1,6 @@
 ---
 layout: post
-tittle: "Caminando, caminando"
+title: "Caminando, caminando"
 tags: [musical]
 categories: [infantes, actividad] 
 author: monse

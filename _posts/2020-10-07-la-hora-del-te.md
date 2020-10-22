@@ -1,6 +1,6 @@
 ---
 layout: post
-tittle: "La hora del té"
+title: "La hora del té"
 tags: [interpersonal]
 categories: [infantes, actividad]
 author: monse

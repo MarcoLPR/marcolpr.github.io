@@ -1,6 +1,6 @@
 ---
 layout: post
-tittle: "Mis emociones en fotografia"
+title: "Mis emociones en fotografia"
 tags: [intrapersonal]
 categories: [bebes, actividad] 
 author: monse

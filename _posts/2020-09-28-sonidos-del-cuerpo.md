@@ -1,6 +1,6 @@
 ---
 layout: post
-tittle: "Sonidos del cuerpo"
+title: "Sonidos del cuerpo"
 tags: [musical]
 categories: [bebes, actividad] 
 author: monse

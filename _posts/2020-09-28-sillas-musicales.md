@@ -1,6 +1,6 @@
 ---
 layout: post
-tittle: "Sillas musicales"
+title: "Sillas musicales"
 tags: [musical]
 categories: [ninos, actividad] 
 author: monse

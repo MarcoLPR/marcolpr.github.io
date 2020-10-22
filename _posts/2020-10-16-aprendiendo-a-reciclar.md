@@ -1,6 +1,6 @@
 ---
 layout: post
-tittle: "Aprendiendo a reciclar"
+title: "Aprendiendo a reciclar"
 tags: [naturalista]
 categories: [ninos, actividad]
 author: monse

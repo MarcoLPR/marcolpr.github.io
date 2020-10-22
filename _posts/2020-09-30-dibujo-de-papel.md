@@ -1,6 +1,6 @@
 ---
 layout: post
-tittle: "Dibujo de papel"
+title: "Dibujo de papel"
 tags: [corporal]
 categories: [bebes, actividad] 
 author: monse

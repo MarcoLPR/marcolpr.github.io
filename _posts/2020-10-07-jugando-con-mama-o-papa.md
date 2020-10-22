@@ -1,6 +1,6 @@
 ---
 layout: post
-tittle: "Jugando con mamá o papá"
+title: "Jugando con mamá o papá"
 tags: [interpersonal]
 categories: [bebes, actividad] 
 author: monse
