@@ -17,4 +17,4 @@ La habilidad para comunicarse de forma adecuada hacia los demás es indispensabl
 1. Se le dirán varios trabalenguas al pequeño, tratará de decirlo las veces que sean necesarias hasta que le salga bien. (Sin presión).
 
 ## Beneficios
-Esta actividad los ayudará a desarrollar la habilidad del habla con más fluido y mejor entendimiento. 
+Esta actividad los ayudará a desarrollar la habilidad del habla con más fluidez y mejor entendimiento. 
