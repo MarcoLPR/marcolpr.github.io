@@ -2,7 +2,7 @@
 layout: post
 title: "Conociendo con mamá"
 tags: [linguistica]
-categories: [bebés, actividad]
+categories: [bebes, actividad]
 author: monse
 image: /assets/posts/2020-10-22-conociendo.jpeg
 hidden: true
