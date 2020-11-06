@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Aprendiendo los números"
-tags: [logico-matematica]
+tags: [logica]
 categories: [bebes, actividad]
 author: monse
 image: /assets/posts/2020-11-02-aprendiendo-a-contar.jpeg
@@ -14,7 +14,7 @@ Es importante que vayan conociendo los números desde muy pequeños, con este v�
 - Celular, tablet o laptop. 
 
 ## Instrucciones 
-1. Se le pondrá en Youtube el vídeo llamado Aprendizaje de números y palabras de Babyfirst. https://www.youtube.com/watch?v=rFyWqp7izrY
+1. Se le pondrá en Youtube el vídeo llamado ["Aprendizaje de números y palabras"](https://www.youtube.com/watch?v=rFyWqp7izrY) de Babyfirst. 
 2. El pequeño tendrá que ver y escuchar el vídeo (cuantas veces quiera) si es posible que baile y juegue. 
 
 ## Beneficios 

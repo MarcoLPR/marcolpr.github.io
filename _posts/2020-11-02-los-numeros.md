@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Los números"
-tags: [logico-matematica]
+tags: [logica]
 categories: [infantes, actividad]
 author: monse
 image: /assets/posts/2020-11-02-los-numeros.jpeg

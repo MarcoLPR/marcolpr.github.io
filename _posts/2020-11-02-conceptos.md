@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Suma, resta, multiplicación y división"
-tags: [logico-matematica]
+tags: [logica]
 categories: [ninos, actividad]
 author: monse
 image: /assets/posts/2020-11-02-conceptos.jpeg

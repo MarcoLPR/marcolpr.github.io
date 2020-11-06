@@ -11,7 +11,7 @@ hidden: true
 A los más pequeñitos tambien es importante enseñarles los conceptos de espacio, ayudándolos a ubicarse y conocer.  
  
 ## Materiales 
--Celular, tablet, laptop. etc.
+- Celular, tablet, laptop. etc.
 
 ## Instrucciones 
 1. Se le pondrá en Youtube el vídeo de ["Arriba y abajo aprendemos cantando"](https://www.youtube.com/watch?v=gc5bFNZl9mw).

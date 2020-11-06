@@ -11,8 +11,8 @@ hidden: true
 Motivar a nuestros pequeños a bailar, cantar, jugar, etc., teniendo como fin el aprendizaje siempre les ayudará más. 
 
 ## Materiales 
--Música.
--Cámara o celular.
+- Música.
+- Cámara o celular.
 
 ## Instrucciones 
 1. Se hará una competencia de baile, en la cual primero comenzará el pequeño con la canción que prefiera y mamá o papá lo grabarán.

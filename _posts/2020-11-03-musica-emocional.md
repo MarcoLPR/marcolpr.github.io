@@ -11,7 +11,7 @@ hidden: true
 Conocer los estados de ánimo y la música con la que se identifican los pequeños, nos ayudará a conocerlos mejor.  
  
 ## Materiales 
--Música.
+- Música.
 
 ## Instrucciones 
 1. Se le dirá al pequeño que ponga una canción que lo haga estar triste y preguntarle por qúe y que lo hace sentir.
