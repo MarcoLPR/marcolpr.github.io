@@ -2,7 +2,7 @@
 layout: post
 title:  "Mi coreografía"
 tags: [corporal]
-categories: [niños, actividad]
+categories: [ninos, actividad]
 author: monse
 image: /assets/posts/2020-06-30-mi-coreografia.jpeg
 hidden: true
