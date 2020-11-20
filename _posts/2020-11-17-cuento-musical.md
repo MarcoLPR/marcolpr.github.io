@@ -4,7 +4,7 @@ title: "Cuento musical"
 tags: [musical]
 categories: [infantes, actividad]
 author: monse
-image: /assets/posts/2020-11-17-cuento-musical.jpeg
+image: /assets/posts/2020-11-17-cuento.jpeg
 hidden: true
 ---
 ![Actividad de cuento](/assets/posts/2020-11-17-cuento.jpeg)<br/> 
