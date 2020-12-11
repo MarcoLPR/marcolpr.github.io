@@ -8,7 +8,7 @@ image: /assets/posts/2020-12-08-canciones-diferentes.jpeg
 hidden: true
 ---
 ![Actividad de canciones](/assets/posts/2020-12-08-canciones-diferentes.jpeg)<br/> 
-Estimular la imaginacion, el sentido del oído y el gusto por la música, será de gran ayuda y aprendizaje para nuetsros pequeños.  
+Estimular la imaginacion, el sentido del oído y el gusto por la música, será de gran ayuda y aprendizaje para nuestros pequeños.  
  
 ## Materiales 
 - Música. 
