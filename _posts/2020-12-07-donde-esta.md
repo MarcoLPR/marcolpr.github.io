@@ -4,7 +4,7 @@ title: "¿Dónde está?"
 tags: [linguistica]
 categories: [bebes, actividad]
 author: monse
-image: /assets/posts/2020-12-07-dónde está.jpeg
+image: /assets/posts/2020-12-07-sorpresa.jpeg
 hidden: true
 ---
 ![Actividad de sorpresa](/assets/posts/2020-12-07-sorpresa.jpeg)<br/> 
