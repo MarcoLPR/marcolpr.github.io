@@ -4,7 +4,7 @@ title: "Carreritas"
 tags: [corporal]
 categories: [ninos, actividad]
 author: monse
-image: /assets/posts/2020-12-09-carreritas.jpeg
+image: /assets/posts/2020-12-09-carreras.jpeg
 hidden: true
 ---
 ![Actividad de carreras](/assets/posts/2020-12-09-carreras.jpeg)<br/> 
