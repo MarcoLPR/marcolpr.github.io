@@ -2,7 +2,7 @@
 layout: post
 title: "Dibujando con simetría"
 tags: [espacial]
-categories: [infates, actividad]
+categories: [infantes, actividad]
 author: monse
 image: /assets/posts/2020-12-30-simetria.jpeg
 hidden: true
@@ -20,4 +20,4 @@ Enseñarles a dibujar con simetría y que conozcan lo que es, desarrollará su i
 2. En caso de no poder imprimirlo, se puede realizar en las hojas con dibujos sencillos, como una estrella, un corazon, un sol, etc. 
 
 ## Beneficios 
-Esta actividad los ayudará a desarrollar la simetría, observar y ver las cosas desde diferentes perspectivas y observar cada detalle con atención. 
+Esta actividad los ayudará a desarrollar la simetría, observar y ver las cosas desde diferentes perspectivas y observar cada detalle con atención.
