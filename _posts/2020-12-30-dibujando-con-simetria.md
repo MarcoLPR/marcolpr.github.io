@@ -2,7 +2,7 @@
 layout: post
 title: "Dibujando con simetría"
 tags: [espacial]
-categories: [ninos, actividad]
+categories: [infates, actividad]
 author: monse
 image: /assets/posts/2020-12-30-simetria.jpeg
 hidden: true
