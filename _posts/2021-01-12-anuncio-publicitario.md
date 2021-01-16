@@ -2,7 +2,7 @@
 layout: post
 title: "Anuncio publicitario"
 tags: [espacial]
-categories: [niños, actividad]
+categories: [ninos, actividad]
 author: monse
 image: /assets/posts/2021-01-12-anuncio.jpeg
 hidden: true

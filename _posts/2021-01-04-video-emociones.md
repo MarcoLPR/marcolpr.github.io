@@ -2,7 +2,7 @@
 layout: post
 title: "Vídeo de las emociones"
 tags: [intrapersonal]
-categories: [bebés, actividad]
+categories: [bebes, actividad]
 author: monse
 image: /assets/posts/2021-01-04-emociones.jpeg
 hidden: true
