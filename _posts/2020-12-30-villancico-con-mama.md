@@ -14,7 +14,7 @@ La música siempre los entusiasma y los pone alegres, por ello, es importante qu
 - Celular, tablet, bocina, etc. 
 
 ## Instrucciones
-1. Se le pondrá el villancico de Rodolfo el reno para que lo escuche las veces que desee. https://www.youtube.com/watch?v=zd5y5pO3QwE 
+1. Se le pondrá el [villancico de Rodolfo](https://www.youtube.com/watch?v=zd5y5pO3QwE) el reno para que lo escuche las veces que desee.
 2. Si es posible, hacer las acciones que se mencionan en la canción frente al pequeño. 
 
 ## Beneficios 
