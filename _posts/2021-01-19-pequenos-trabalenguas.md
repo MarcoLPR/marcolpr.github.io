@@ -4,10 +4,10 @@ title: "Pequeños trabalenguas"
 tags: [linguistica]
 categories: [infantes, actividad]
 author: monse
-image: /assets/posts/2021-01-19-trabalenguas.jpeg
+image: /assets/posts/2021-01-19-trabalengua.jpeg
 hidden: true
 ---
-![Actividad de trabalenguas](/assets/posts/2021-01-19-trabalenguas.jpeg)<br/> 
+![Actividad de trabalenguas](/assets/posts/2021-01-19-trabalengua.jpeg)<br/> 
 Jugar con trabalenguas es una forma divertida e interesante para estimular el lenguaje oral.   
  
 ## Materiales 
